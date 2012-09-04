@@ -2,8 +2,9 @@
 #coba memformat alkitab kedalam wiki googlecode
 
 =AlkitabTerjemahanBaru=
-==KejadianPasal1==
+==Kejadian 1==
 
+===JudulPerikop===
   # ayat1
   # ayat2 
   # dst
