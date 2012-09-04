@@ -1,0 +1,9 @@
+#labels PerjanjianLama,TerjemahanBaru
+#coba memformat alkitab kedalam wiki googlecode
+
+=AlkitabTerjemahanBaru=
+==KejadianPasal1==
+
+  # ayat1
+  # ayat2 
+  # dst
