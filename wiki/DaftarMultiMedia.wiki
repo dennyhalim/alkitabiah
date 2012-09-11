@@ -7,6 +7,10 @@ http://alkitabiah.googlecode.com/svn/trunk/playlist/
 
 
 =Daftar Multimedia yg bisa di download=
+
+==Alkitab==
+http://code.google.com/p/alkitabiah/downloads/list
+
 ==Pedang Roh==
 http://graphe-ministry.org/bahasa/pedang_roh.html
 
