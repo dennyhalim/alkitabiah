@@ -1,6 +1,8 @@
 #labels multimedia,audio,video,playlist,downloads
 Playlist Streaming
+
 http://alkitabiah.googlecode.com/svn/trunk/playlist/
+
 
 
 
@@ -8,7 +10,41 @@ Daftar Multimedia yg bisa di download:
 
 Alkitab Audio
 
+zip:
+
+http://archive.org/download/AlkitabAudioPengkotbah/AlkitabAudioMazmur_vbr_mp3.zip
+http://archive.org/download/AlkitabAudioPengkotbah/AlkitabAudioAmsal_vbr_mp3.zip
+http://archive.org/download/AlkitabAudioPengkotbah/AlkitabAudioPengkotbah_vbr_mp3.zip
+http://archive.org/download/AlkitabAudioPengkotbah/AlkitabAudioInjilMatius_vbr_mp3.zip
+http://archive.org/download/AlkitabAudioPengkotbah/AlkitabAudioInjilMarkus_vbr_mp3.zip
+http://archive.org/download/AlkitabAudioPengkotbah/AlkitabAudioInjilLukas_vbr_mp3.zip
+http://archive.org/download/AlkitabAudioPengkotbah/AlkitabAudioInjilYohanes_vbr_mp3.zip
+http://archive.org/download/AlkitabAudioPengkotbah/AlkitabAudioRoma_vbr_mp3.zip
+http://archive.org/download/AlkitabAudioPengkotbah/AlkitabAudio1Korintus_vbr_mp3.zip
+http://archive.org/download/AlkitabAudioPengkotbah/AlkitabAudio2Korintus_vbr_mp3.zip
+http://archive.org/download/AlkitabAudioPengkotbah/AlkitabAudioGalatia_vbr_mp3.zip
+http://archive.org/download/AlkitabAudioPengkotbah/AlkitabAudioEfesus_vbr_mp3.zip
+http://archive.org/download/AlkitabAudioPengkotbah/AlkitabAudioFilipi_vbr_mp3.zip
+http://archive.org/download/AlkitabAudioPengkotbah/AlkitabAudioKolose_vbr_mp3.zip
+http://archive.org/download/AlkitabAudioPengkotbah/AlkitabAudio1Tesalonika_vbr_mp3.zip
+http://archive.org/download/AlkitabAudioPengkotbah/AlkitabAudio2Tesalonika_vbr_mp3.zip
+http://archive.org/download/AlkitabAudioPengkotbah/AlkitabAudio1Timotius_vbr_mp3.zip
+http://archive.org/download/AlkitabAudioPengkotbah/AlkitabAudio2Timotius_vbr_mp3.zip
+http://archive.org/download/AlkitabAudioPengkotbah/AlkitabAudioTitus_vbr_mp3.zip
+http://archive.org/download/AlkitabAudioPengkotbah/AlkitabAudioFilemon_vbr_mp3.zip
+http://archive.org/download/AlkitabAudioPengkotbah/AlkitabAudioIbrani_vbr_mp3.zip
+http://archive.org/download/AlkitabAudioPengkotbah/AlkitabAudioYakobus_vbr_mp3.zip
+http://archive.org/download/AlkitabAudioPengkotbah/AlkitabAudio1Petrus_vbr_mp3.zip
+http://archive.org/download/AlkitabAudioPengkotbah/AlkitabAudio2Petrus_vbr_mp3.zip
+http://archive.org/download/AlkitabAudioPengkotbah/AlkitabAudio1Yohanes_vbr_mp3.zip
+http://archive.org/download/AlkitabAudioPengkotbah/AlkitabAudio2Yohanes_vbr_mp3.zip
+http://archive.org/download/AlkitabAudioPengkotbah/AlkitabAudio3Yohanes_vbr_mp3.zip
+http://archive.org/download/AlkitabAudioPengkotbah/AlkitabAudioYudas_vbr_mp3.zip
+http://archive.org/download/AlkitabAudioPengkotbah/AlkitabAudioWahyu_vbr_mp3.zip
+
+
 torrent:
+
 http://archive.org/download/AlkitabAudio1Korintus/AlkitabAudioMazmur_archive.torrent
 http://archive.org/download/AlkitabAudio1Korintus/AlkitabAudioAmsal_archive.torrent
 http://arch$ive.org/download/AlkitabAudio1Korintus/AlkitabAudioPengkotbah_archive.torrent
@@ -39,5 +75,3 @@ http://archive.org/download/AlkitabAudio1Korintus/AlkitabAudio2Yohanes_archive.t
 http://archive.org/download/AlkitabAudio1Korintus/AlkitabAudio3Yohanes_archive.torrent
 http://archive.org/download/AlkitabAudio1Korintus/AlkitabAudioYudas_archive.torrent
 http://archive.org/download/AlkitabAudio1Korintus/AlkitabAudioWahyu_archive.torrent
-
-
