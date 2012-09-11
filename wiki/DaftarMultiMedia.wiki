@@ -1,4 +1,5 @@
 #labels multimedia,audio,video,playlist,downloads,Featured
+
 Playlist Streaming
 
 http://alkitabiah.googlecode.com/svn/trunk/playlist/
@@ -7,6 +8,10 @@ http://alkitabiah.googlecode.com/svn/trunk/playlist/
 
 
 Daftar Multimedia yg bisa di download:
+
+Video Seminar Soteriology
+http://archive.org/download/Soteriologi/Soteriologi_archive.torrent
+
 
 Alkitab Audio
 
