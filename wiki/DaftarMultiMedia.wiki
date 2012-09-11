@@ -1,21 +1,20 @@
 #labels multimedia,audio,video,playlist,downloads,Featured
-
-Playlist Streaming
+=Playlist Streaming=
 
 http://alkitabiah.googlecode.com/svn/trunk/playlist/
 
 
 
 
-Daftar Multimedia yg bisa di download:
+=Daftar Multimedia yg bisa di download=
 
-Video Seminar Soteriology
+==Video Seminar Soteriology==
 http://archive.org/download/Soteriologi/Soteriologi_archive.torrent
 
 
-Alkitab Audio
+==Alkitab Audio==
 
-zip:
+===zip===
 
 http://archive.org/download/AlkitabAudioPengkotbah/AlkitabAudioMazmur_vbr_mp3.zip
 http://archive.org/download/AlkitabAudioPengkotbah/AlkitabAudioAmsal_vbr_mp3.zip
@@ -48,7 +47,7 @@ http://archive.org/download/AlkitabAudioPengkotbah/AlkitabAudioYudas_vbr_mp3.zip
 http://archive.org/download/AlkitabAudioPengkotbah/AlkitabAudioWahyu_vbr_mp3.zip
 
 
-torrent:
+===torrent===
 
 http://archive.org/download/AlkitabAudio1Korintus/AlkitabAudioMazmur_archive.torrent
 http://archive.org/download/AlkitabAudio1Korintus/AlkitabAudioAmsal_archive.torrent
