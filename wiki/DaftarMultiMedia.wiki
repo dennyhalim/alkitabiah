@@ -1,4 +1,4 @@
-#labels multimedia,audio,video,playlist,downloads
+#labels multimedia,audio,video,playlist,downloads,Featured
 Playlist Streaming
 
 http://alkitabiah.googlecode.com/svn/trunk/playlist/
