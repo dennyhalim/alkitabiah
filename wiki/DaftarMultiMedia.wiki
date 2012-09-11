@@ -1,0 +1,43 @@
+#labels multimedia,audio,video,playlist,downloads
+Playlist Streaming
+http://alkitabiah.googlecode.com/svn/trunk/playlist/
+
+
+
+Daftar Multimedia yg bisa di download:
+
+Alkitab Audio
+
+torrent:
+http://archive.org/download/AlkitabAudio1Korintus/AlkitabAudioMazmur_archive.torrent
+http://archive.org/download/AlkitabAudio1Korintus/AlkitabAudioAmsal_archive.torrent
+http://arch$ive.org/download/AlkitabAudio1Korintus/AlkitabAudioPengkotbah_archive.torrent
+http://archive.org/download/AlkitabAudio1Korintus/AlkitabAudioInjilMatius_archive.torrent
+http://archive.org/download/AlkitabAudio1Korintus/AlkitabAudioInjilMarkus_archive.torrent
+http://archive.org/download/AlkitabAudio1Korintus/AlkitabAudioInjilLukas_archive.torrent
+http://archive.org/download/AlkitabAudio1Korintus/AlkitabAudioInjilYohanes_archive.torrent
+http://archive.org/download/AlkitabAudio1Korintus/AlkitabAudioKisahParaRasul_archive.torrent
+http://archive.org/download/AlkitabAudio1Korintus/AlkitabAudioRoma_archive.torrent
+http://archive.org/download/AlkitabAudio1Korintus/AlkitabAudio1Korintus_archive.torrent
+http://archive.org/download/AlkitabAudio1Korintus/AlkitabAudio2Korintus_archive.torrent
+http://archive.org/download/AlkitabAudio1Korintus/AlkitabAudioGalatia_archive.torrent
+http://archive.org/download/AlkitabAudio1Korintus/AlkitabAudioEfesus_archive.torrent
+http://archive.org/download/AlkitabAudio1Korintus/AlkitabAudioFilipi_archive.torrent
+http://archive.org/download/AlkitabAudio1Korintus/AlkitabAudioKolose_archive.torrent
+http://archive.org/download/AlkitabAudio1Korintus/AlkitabAudio1Tesalonika_archive.torrent
+http://archive.org/download/AlkitabAudio1Korintus/AlkitabAudio2Tesalonika_archive.torrent
+http://archive.org/download/AlkitabAudio1Korintus/AlkitabAudio1Timotius_archive.torrent
+http://archive.org/download/AlkitabAudio1Korintus/AlkitabAudio2Timotius_archive.torrent
+http://archive.org/download/AlkitabAudio1Korintus/AlkitabAudioTitus_archive.torrent
+http://archive.org/download/AlkitabAudio1Korintus/AlkitabAudioFilemon_archive.torrent
+http://archive.org/download/AlkitabAudio1Korintus/AlkitabAudioIbrani_archive.torrent
+http://archive.org/download/AlkitabAudio1Korintus/AlkitabAudioYakobus_archive.torrent
+http://archive.org/download/AlkitabAudio1Korintus/AlkitabAudio1Petrus_archive.torrent
+http://archive.org/download/AlkitabAudio1Korintus/AlkitabAudio2Petrus_archive.torrent
+http://archive.org/download/AlkitabAudio1Korintus/AlkitabAudio1Yohanes_archive.torrent
+http://archive.org/download/AlkitabAudio1Korintus/AlkitabAudio2Yohanes_archive.torrent
+http://archive.org/download/AlkitabAudio1Korintus/AlkitabAudio3Yohanes_archive.torrent
+http://archive.org/download/AlkitabAudio1Korintus/AlkitabAudioYudas_archive.torrent
+http://archive.org/download/AlkitabAudio1Korintus/AlkitabAudioWahyu_archive.torrent
+
+
