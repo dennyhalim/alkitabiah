@@ -4,6 +4,7 @@ Bible Converter
   * http://palmbibleplus.sourceforge.net/createbible.htm
   * http://www.theword.net/index.php?article.tools&l=english
   * http://bibledatabase.org/addon/html_compiler.html
+  * http://ebible.org/WordSend/
 
 Tools
   * http://www.authenticwalk.com/freescripts/ 
