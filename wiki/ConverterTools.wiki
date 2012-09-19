@@ -1,0 +1,12 @@
+#labels converter,bible,tools,format
+Bible Converter
+  * http://www.churchsw.org/simple-bible-reader-project
+  * http://palmbibleplus.sourceforge.net/createbible.htm
+  * http://www.theword.net/index.php?article.tools&l=english
+  *
+
+Tools
+  * http://www.authenticwalk.com/freescripts/ 
+
+Doc Converter
+  *johnmacfarlane.net/pandoc/
