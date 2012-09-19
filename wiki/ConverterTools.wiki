@@ -3,10 +3,10 @@ Bible Converter
   * http://www.churchsw.org/simple-bible-reader-project
   * http://palmbibleplus.sourceforge.net/createbible.htm
   * http://www.theword.net/index.php?article.tools&l=english
-  *
+  * http://bibledatabase.org/addon/html_compiler.html
 
 Tools
   * http://www.authenticwalk.com/freescripts/ 
 
 Doc Converter
-  *johnmacfarlane.net/pandoc/
+  * http://johnmacfarlane.net/pandoc/
