@@ -6,8 +6,14 @@ Bible Converter
   * http://bibledatabase.org/addon/html_compiler.html
   * http://ebible.org/WordSend/
 
+
 Tools
   * http://www.authenticwalk.com/freescripts/ 
 
 Doc Converter
   * http://johnmacfarlane.net/pandoc/
+
+
+Format
+  * http://www.crosswire.org/wiki/File_Formats
+  * http://johnmacfarlane.net/pandoc/README.html#pandocs-markdown
