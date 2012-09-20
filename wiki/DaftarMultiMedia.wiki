@@ -1,8 +1,9 @@
 #labels multimedia,audio,video,playlist,downloads,Featured
 =Playlist Streaming=
 
-http://archive.org/download/Graphe2010/Graphe2010_vbr.m3u
-http://alkitabiah.googlecode.com/svn/trunk/playlist/
+
+  * http://archive.org/download/Graphe2010/Graphe2010_vbr.m3u
+  * http://alkitabiah.googlecode.com/svn/trunk/playlist/
 
 
 
