@@ -10,6 +10,12 @@
 
 =Daftar Multimedia yg bisa di download=
 
+==Kotbah==
+torrent
+  * http://archive.org/download/MimbarGraphe/MimbarGraphe_archive.torrent
+  * http://archive.org/download/Graphe2010/Graphe2010_archive.torrent
+
+
 ==Alkitab==
 http://code.google.com/p/alkitabiah/downloads/list
 
