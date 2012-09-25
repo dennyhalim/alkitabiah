@@ -17,7 +17,7 @@ torrent
 
 
 ==Alkitab==
-  * http://code.google.com/p/alkitabiah/downloads/list
+  * https://code.google.com/p/alkitabiah/downloads/list
 
 ==Pedang Roh==
   * http://graphe-ministry.org/bahasa/pedang_roh.html
