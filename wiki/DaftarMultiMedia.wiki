@@ -18,6 +18,7 @@ torrent
 
 ==Alkitab==
   * https://code.google.com/p/alkitabiah/downloads/list
+  * http://archive.org/download/BibleTranslations/BibleTranslations_archive.torrent
 
 ==Pedang Roh==
   * http://graphe-ministry.org/bahasa/pedang_roh.html
