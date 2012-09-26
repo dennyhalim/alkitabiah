@@ -1,8 +1,8 @@
 #labels converter,bible,tools,format
 Bible Study Tools
   * http://crosswire.org/applications.jsp
-  * bibleanalyzer.com
-  * theword.net
+  * http://bibleanalyzer.com
+  * http://theword.net
 
 
 Ebook Reader:
