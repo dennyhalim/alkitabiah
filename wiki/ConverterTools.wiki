@@ -1,4 +1,13 @@
 #labels converter,bible,tools,format
+Bible Study Tools
+  * http://crosswire.org/applications.jsp
+  * bibleanalyzer.com
+  * theword.net
+
+
+Ebook Reader:
+  * http://fbreader.org
+
 Bible Converter
   * http://www.churchsw.org/simple-bible-reader-project
   * http://palmbibleplus.sourceforge.net/createbible.htm
