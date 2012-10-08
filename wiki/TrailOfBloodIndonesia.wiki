@@ -1,5 +1,5 @@
 #labels Featured,trailofblood,sejarah,gereja
-"Jejak Darah..."
+="Jejak Darah..."=
 
 
 diterjemahkan oleh alkitabiah.org
@@ -34,12 +34,12 @@ pembelajaran seperti kelas-kelas di BTU, WMU dan organisasi lainnya.
 
 
 
-PENGANTAR 
+==PENGANTAR==
 Oleh CLARENCE WALKER 
 
 
 
-I
+===I===
 
 
 Dr. J. M. Caroll, penulis buku ini, lahir di negara bagian Arkansas 
@@ -80,7 +80,7 @@ Yesus turun-temurun sampai selama-lamanya. Amin. (Efesus 3:9-10, 21)
 
 
 
-II
+===II===
 
 
 Sangat mengagumkan mendengar Dr. Carroll menceritakan bagaimana dia 
@@ -181,7 +181,7 @@ Yohanes.
 
 
 
-III
+===III===
 
 
 Baptis tidak percaya dengan Suksesi Rasul. Kerasulan berhenti dengan 
@@ -214,7 +214,7 @@ menyebut doktrin-doktrin ini sebagai "tanda" Gereja Perjanjian Baru.
 
 
 
-"TANDA GEREJA PERJANJIAN BARU"
+===="TANDA GEREJA PERJANJIAN BARU"====
 
 
 1. Didirikan dan dikepalai oleh KRISTUS. Dialah pemberi hukum; Gereja 
@@ -252,7 +252,7 @@ Efesus 6:10-20)
 
 
 
-IV 
+===IV===
 
 
 Di kota manapun, ada banyak gereja yang mengaku sebagai gereja yang 
@@ -278,7 +278,7 @@ sepanjang sejarah dan sejak Yesus berkata,
 
 
 
-"JEJAK DARAH"
+="JEJAK DARAH"=
 
 
 Melacak Jejak Kekristenan Sepanjang Abad
@@ -294,7 +294,7 @@ semua yang setiap padanya."
 
 
 
-KULIAH PERTAMA
+==KULIAH PERTAMA==
 
 
 "Ingatlah kepada zaman dahulu kala, perhatikanlah tahun-tahun keturunan 
@@ -347,7 +347,7 @@ pasti dan tidak ada kesalahan.
 
 
 
-Beberapa Tanda Kebenaran, yang tidak bisa salah
+===Beberapa Tanda Kebenaran, yang tidak bisa salah===
 
 
 Berhati-hatilah jika dalam melacak sejarah kita menemukan kelompok 
@@ -416,9 +416,14 @@ dengan kekuasaan sementara di dunia. "Kebebasan Beragama" untuk semua.
 Dan kini, sebelum memasuki topik sejarah, kita perhatikan..
 
 
-GRAFIK
+
+
+
+===GRAFIK===
+
 
 [http://www.alkitabiah.org/The_Trail_of_Blood.jpg http://alkitabiah.googlecode.com/svn/trunk/images/800px-The_Trail_of_Blood.jpg]
+
 
 Saya yakin, jika anda mempelajari grafik ini dengan cermat, anda akan 
 memahami sejarah dengan lebih benar, dan ini akan sangat membantu 
@@ -477,7 +482,7 @@ sampaikan sejarahnya
 
 
 
-PERIODE PERTAMA: TAHUN 30-500
+===PERIODE PERTAMA: TAHUN 30-500===
 
 
 1. Dibawah kepemimpinan Yohanes Baptis yang penuh semangat, pria fasih 
@@ -783,7 +788,7 @@ eksklusif kepausan.
   
 
 
-KULIAH KEDUA: TAHUN 600-1300
+==KULIAH KEDUA: TAHUN 600-1300==
 
 
 1. Kita tutup kuliah perta dengan menutup abad kelima. Akan tetapi 
@@ -1008,12 +1013,6 @@ hukum-hukum dan doktrin-doktrin baru dan kepahitan penganiayaan.
 (Schaff, Herzogg, En., Vol. 11, hal. 901.) 
 
 
-
-
-
-"THE TRAIL OF BLOOD" 
-
-
 17. Kini kita perhatikan korban-korban penganiayaan. Jika lima puluh 
 juta mati dalam penganiayaan selama 1200 tahun yang kita sebut "Jaman 
 Kegelapan", seperti yang diajarkan sejarah bahwa mereka mati lebih cepat 
@@ -1043,16 +1042,16 @@ dan kepada pendeta kekuasaan legislatif. Dan terutama inilah sebabnya
 Perjanjian Baru ditutup dengan kalimat ini,
 
 
-"Aku bersaksi kepada setiap orang yang mendengar perkataan-perkataan 
-nubuat dari kitab ini: "Jika seorang menambahkan sesuatu kepada 
-perkataan-perkataan ini, maka Allah akan menambahkan kepadanya 
-malapetaka-malapetaka yang tertulis di dalam kitab ini. Dan jikalau 
-seorang mengurangkan sesuatu dari perkataan-perkataan dari kitab nubuat 
-ini, maka Allah akan mengambil bagiannya dari pohon kehidupan dan dari 
-kota kudus, seperti yang tertulis di dalam kitab ini." Wahyu 22:18-19.
+ "Aku bersaksi kepada setiap orang yang mendengar perkataan-perkataan 
+ nubuat dari kitab ini: "Jika seorang menambahkan sesuatu kepada 
+ perkataan-perkataan ini, maka Allah akan menambahkan kepadanya 
+ malapetaka-malapetaka yang tertulis di dalam kitab ini. Dan jikalau 
+ seorang mengurangkan sesuatu dari perkataan-perkataan dari kitab nubuat 
+ ini, maka Allah akan mengambil bagiannya dari pohon kehidupan dan dari 
+ kota kudus, seperti yang tertulis di dalam kitab ini." Wahyu 22:18-19.
 
 
-Penting: Kami sisipkan ayat ini sebagai peringatan. Agar gereja Baptis 
+*PENTING*: Kami sisipkan ayat ini sebagai peringatan. Agar gereja Baptis 
 perhatikan bahkan pendisiplinan dan penyelesaian lainnya, kadang-kadang 
 disampaikan dalam konferensi, mungkin dibuat menjadi hukum atau aturan 
 pemerintahan gereja, Perjanjian Baru mempunyai semua hukum dan aturan 
@@ -1125,7 +1124,7 @@ gagal mewujudkan tujuannya.
 
 
 
-KULIAH KETIGA: TAHUN 1400-1600
+==KULIAH KETIGA: TAHUN 1400-1600==
 
 
 1. Selama abad-abad sebelumnya, abad kelimabelas, enambelas, dan tujuh 
@@ -1257,12 +1256,6 @@ segera turut dalam bisnis penganiayaan, tidak banyak berbeda dengan
 Bunda Gereja Katolik mereka.
 
 
-
-
-
-"JEJAK DARAH"
-
-
 Menyedihkan dan mengerikan nasib Ana-Baptis yang lama menderita. Kini 
 tidak ada lagi tempat bersembunyi di dunia. Empat penganiaya kejam kini 
 mengejar mereka. Memanglah mereka menapak "Jejak Darah".
@@ -1336,12 +1329,6 @@ atau menganiaya Katolik berarti perang dengan semua negara dimana
 Katolik berkuasa.
 
 
-
-
-
-"JEJAK DARAH"
-
-
 18. Tetapi penganiayaan tidak berhenti. Ana-Baptis yang dibenci (kini 
 disebut Baptis), dengan segala penganiayaan, dan dengan fakta mengerikan 
 bahwa limapuluh juta yang sudah mati martir, tetap ada banyak. Dalam 
@@ -1412,7 +1399,7 @@ oleh Katolik sungguhlah mengerikan!
 
 
 
-KULIAH KEEMPAT: Abad 17-19.
+==KULIAH KEEMPAT: Abad 17-19==
 
 
 1. Kuliah ini dimulai dari awal abad ketujuhbelas (tahun 1601). Kita 
@@ -1662,7 +1649,7 @@ sungguh tak terkira.
 
 
 
-KULIAH KELIMA: AGAMA DI AMERIKA
+==KULIAH KELIMA: AGAMA DI AMERIKA==
 
 
 1. Melalui Spanyol dan kebangsaan Latin lainnya, Katolik sebagai agama, 
@@ -1686,9 +1673,7 @@ lain yang juga menghindari penganiayaan.
 
 
 
-
-
-"JEJAK DARAH DI AMERIKA"
+==="JEJAK DARAH DI AMERIKA"===
 
 
 3. Para pengungsi Kongregasi dan Presbyterian menghasilkan perbedaan 
@@ -2003,7 +1988,7 @@ dan Institut Madero didirikan.
 
 
 
-KATA PENUTUP
+==KATA PENUTUP==
 
 
 1. Selama masa "Jaman Kegelapan" ada banyak macam Kristen dan banyak 
@@ -2054,7 +2039,7 @@ sebelum dan sesudah Jaman Kegelapan hingga kini.
 
 
 
-DOKTRIN DASAR
+==DOKTRIN DASAR==
 
 1. Gereja Rohani, didirikan oleh Kristus yang adalah satu-satunya kepala 
 dan pemberi hukum.
@@ -2087,7 +2072,7 @@ disiplin dan dalam tanggung jawab kepada Tuhan; tapi bekerja sama.
 
 
 
-Sebagian Daftar Buku Referensi.
+==Sebagian Daftar Buku Referensi==
 
 
 Partial list of books used in preparing lectures on "the Trail of Blood" 
