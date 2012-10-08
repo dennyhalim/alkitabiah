@@ -33,6 +33,7 @@ pembelajaran seperti kelas-kelas di BTU, WMU dan organisasi lainnya.
 
 
 
+<wiki:toc max_depth="3" />
 
 ==PENGANTAR==
 Oleh CLARENCE WALKER 
