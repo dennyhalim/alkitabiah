@@ -425,6 +425,7 @@ Dan kini, sebelum memasuki topik sejarah, kita perhatikan..
 
 [http://www.alkitabiah.org/The_Trail_of_Blood.jpg http://alkitabiah.googlecode.com/svn/trunk/images/800px-The_Trail_of_Blood.jpg]
 
+atau garis waktu interaktif di http://trailofblood.org
 
 Saya yakin, jika anda mempelajari grafik ini dengan cermat, anda akan 
 memahami sejarah dengan lebih benar, dan ini akan sangat membantu 
