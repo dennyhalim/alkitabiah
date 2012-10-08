@@ -16,3 +16,28 @@ Add your content here.  Format your content with:
 
 coba
 QuickCheck
+
+
+Wiki markup help
+=Heading1=
+==Heading2==
+===Heading3===
+
+*bold*     _italic_
+`inline code`
+escape: `*`
+
+Indent lists 2 spaces:
+  * bullet item
+  # numbered list
+
+{{{
+verbatim code block
+}}}
+
+Horizontal rule
+---- 
+
+WikiWordLink
+[http://domain/page label]
+http://domain/page
