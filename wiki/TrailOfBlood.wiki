@@ -326,7 +326,7 @@ And now, before proceeding with the history itself, let me call your attention t
 THE CHART 
 
 
-[http://www.alkitabiah.org/The_Trail_of_Blood.jpg http://alkitabiah.googlecode.com/svn/trunk/images/800px-The_Trail_of_Blood.jpg]
+[http://www.alkitabiah.org/The_Trail_of_Blood.jpg http://alkitabiah.googlecode.com/svn/images/800px-The_Trail_of_Blood.jpg]
 
 or, interactive timeline at http://trailofblood.org
 
