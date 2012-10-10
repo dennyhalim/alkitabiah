@@ -432,7 +432,7 @@ Dan kini, sebelum memasuki topik sejarah, kita perhatikan..
 ===GRAFIK===
 
 
-[http://www.alkitabiah.org/The_Trail_of_Blood.jpg http://alkitabiah.googlecode.com/svn/trunk/images/800px-The_Trail_of_Blood.jpg]
+[http://www.alkitabiah.org/The_Trail_of_Blood.jpg http://alkitabiah.googlecode.com/svn/images/800px-The_Trail_of_Blood.jpg]
 
 atau garis waktu interaktif di http://trailofblood.org
 
