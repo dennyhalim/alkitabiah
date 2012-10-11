@@ -18,7 +18,7 @@ translator note:
 
   * we tries our best to produce correct translation
 
-  * all possible translation mistakes is ours. always refer to the original articles
+  * all possible translation mistakes is ours own responsibility. always refer to the original articles
 
   * if you find any mistake, please comment and suggest a more correct translation.
 
