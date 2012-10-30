@@ -2,6 +2,7 @@
 =Playlist Streaming=
 
 
+  * http://archive.org/download/Graphe2011/Graphe2011_vbr.m3u
   * http://archive.org/download/Graphe2010/Graphe2010_vbr.m3u
   * http://alkitabiah.googlecode.com/svn/trunk/playlist/
 
@@ -20,6 +21,7 @@
 torrent
   * http://archive.org/download/MimbarGraphe/MimbarGraphe_archive.torrent
   * http://archive.org/download/Graphe2010/Graphe2010_archive.torrent
+  * http://archive.org/download/Graphe2011/Graphe2011_archive.torrent
 
 
 ==Alkitab==
@@ -37,6 +39,7 @@ torrent
 
 ==Video Seminar Soteriology==
   * http://archive.org/download/Soteriologi/Soteriologi_archive.torrent
+  * http://vimeo.com/surga/videos
 
 
 ==Alkitab Audio==
