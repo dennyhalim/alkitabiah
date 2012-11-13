@@ -11,6 +11,11 @@
 
 =Daftar Multimedia yg bisa di download=
 
+==Videos ==
+  * http://archive.org/download/Soteriologi/Soteriologi_archive.torrent
+  * http://archive.org/download/ApakahCalvinismeAlkitabiah/ApakahCalvinismeAlkitabiah_archive.torrent
+  * http://vimeo.com/surga/videos
+
 ==ebooks==
   * http://code.google.com/p/alkitabiah/downloads/list
 
@@ -38,9 +43,6 @@ torrent
   * http://archive.org/download/ArtikelAlkitabiah/ArtikelAlkitabiah_archive.torrent
 
 
-==Video Seminar Soteriology==
-  * http://archive.org/download/Soteriologi/Soteriologi_archive.torrent
-  * http://vimeo.com/surga/videos
 
 
 ==Alkitab Audio==
