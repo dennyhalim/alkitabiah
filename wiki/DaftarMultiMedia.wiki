@@ -1,4 +1,7 @@
 #labels multimedia,audio,video,playlist,downloads,Featured
+=eBooks=
+  * http://buktidansaksi.com/resources?c=books_free_download
+
 =Playlist Streaming=
 
 
