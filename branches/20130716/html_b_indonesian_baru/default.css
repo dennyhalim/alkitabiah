@@ -1,0 +1,88 @@
+BODY
+{
+    COLOR: black;
+    BACKGROUND-REPEAT: repeat;
+    FONT-FAMILY: Arial;
+    BACKGROUND-COLOR: white;
+    TEXT-DECORATION: none
+}
+A:link
+{
+    FONT-WEIGHT: bold;
+    COLOR: blue;
+    FONT-STYLE: normal;
+    FONT-FAMILY: Arial;
+    TEXT-DECORATION: none
+}
+A:active
+{
+    FONT-WEIGHT: bolder;
+    COLOR: red;
+    FONT-STYLE: normal;
+    FONT-FAMILY: Arial;
+    TEXT-DECORATION: none
+}
+A:visited
+{
+    FONT-WEIGHT: bold;
+    COLOR: black;
+    FONT-STYLE: normal;
+    FONT-FAMILY: Arial;
+    TEXT-DECORATION: underline
+}
+A:hover
+{
+    FONT-WEIGHT: bolder;
+    COLOR: white;
+    FONT-STYLE: normal;
+    FONT-FAMILY: Arial;
+    BACKGROUND-COLOR: steelblue;
+    TEXT-DECORATION: none;
+}
+P
+{
+    COLOR: black;
+    FONT-FAMILY: Arial;
+	 font-size: 10pt;
+	 font-weight: bold;
+}
+UL
+{
+    COLOR: darkblue;
+    FONT-FAMILY: Arial;
+}
+H1
+{
+    FONT-SIZE: large;
+    COLOR: darkblue;
+    FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif;
+    TEXT-DECORATION: underline
+}
+H2
+{
+    FONT-SIZE: medium;
+    COLOR: darkblue;
+    FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif;
+    TEXT-DECORATION: underline
+}
+H3
+{
+    FONT-SIZE: medium;
+    COLOR: midnightblue;
+    FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif;
+    TEXT-ALIGN: justify
+}
+ADDRESS
+{
+    FONT-SIZE: xx-small;
+    COLOR: darkblue;
+    FONT-STYLE: italic;
+    TEXT-ALIGN: center
+}
+BLOCKQUOTE
+{
+    FONT-WEIGHT: bold;
+    TEXT-ALIGN: justify;
+	 font-size: 12pt;
+}
+
