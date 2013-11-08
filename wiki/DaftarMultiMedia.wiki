@@ -4,6 +4,7 @@
   * http://buktidansaksi.com/resources?c=books_free_download
 
 =Playlist Streaming=
+==Audio ==
 
   * https://archive.org/download/MimbarGraphe/MimbarGraphe_vbr.m3u
   * https://archive.org/download/Graphe2011/Graphe2011_vbr.m3u
@@ -11,16 +12,17 @@
   * https://archive.org/download/Khotbah2013/Khotbah2013_vbr.m3u
   * https://alkitabiah.googlecode.com/svn/trunk/playlist/
 
-
+==Videos ==
+  * http://vimeo.com/couchmode/surga/videos/sort:alphabetical
+  * http://vimeo.com/surga/videos
+  * https://www.youtube.com/user/alkitabsungguhbenar
 
 
 =Daftar Multimedia yg bisa di download=
 
 ==Videos ==
-  * http://vimeo.com/couchmode/surga/videos/sort:alphabetical
   * https://archive.org/download/Soteriologi/Soteriologi_archive.torrent
   * http://archive.org/download/ApakahCalvinismeAlkitabiah/ApakahCalvinismeAlkitabiah_archive.torrent
-  * http://vimeo.com/surga/videos
 
 ==ebooks==
   * http://code.google.com/p/alkitabiah/downloads/list
