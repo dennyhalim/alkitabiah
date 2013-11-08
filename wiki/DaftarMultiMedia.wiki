@@ -36,7 +36,7 @@ torrent
   * https://archive.org/download/Graphe2011/Graphe2011_archive.torrent
   * https://archive.org/download/Khotbah2013/Khotbah2013_archive.torrent
 
-zip
+zipped mp3
   * https://archive.org/download/MimbarGraphe/MimbarGraphe_vbr_mp3.zip
   * https://archive.org/download/Graphe2011/Graphe2011_vbr_mp3.zip
   * https://archive.org/download/Graphe2010/Graphe2010_vbr_mp3.zip
@@ -60,7 +60,7 @@ zip
 
 ==Alkitab Audio==
 
-===zip===
+===zipped mp3===
 
   * http://archive.org/download/AlkitabAudioMazmur/AlkitabAudioMazmur_vbr_mp3.zip
   * http://archive.org/download/AlkitabAudioAmsal/AlkitabAudioAmsal_vbr_mp3.zip
