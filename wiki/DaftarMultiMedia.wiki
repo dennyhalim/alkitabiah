@@ -6,9 +6,10 @@
 =Playlist Streaming=
 
 
-  * http://archive.org/download/Graphe2011/Graphe2011_vbr.m3u
-  * http://archive.org/download/Graphe2010/Graphe2010_vbr.m3u
-  * http://alkitabiah.googlecode.com/svn/trunk/playlist/
+  * https://archive.org/download/Graphe2011/Graphe2011_vbr.m3u
+  * https://archive.org/download/Graphe2010/Graphe2010_vbr.m3u
+  * https://archive.org/download/Khotbah2013/Khotbah2013_vbr.m3u
+  * https://alkitabiah.googlecode.com/svn/trunk/playlist/
 
 
 
@@ -17,7 +18,7 @@
 
 ==Videos ==
   * http://vimeo.com/couchmode/surga/videos/sort:alphabetical
-  * http://archive.org/download/Soteriologi/Soteriologi_archive.torrent
+  * https://archive.org/download/Soteriologi/Soteriologi_archive.torrent
   * http://archive.org/download/ApakahCalvinismeAlkitabiah/ApakahCalvinismeAlkitabiah_archive.torrent
   * http://vimeo.com/surga/videos
 
@@ -30,14 +31,15 @@
 
 ==Kotbah==
 torrent
-  * http://archive.org/download/MimbarGraphe/MimbarGraphe_archive.torrent
-  * http://archive.org/download/Graphe2010/Graphe2010_archive.torrent
-  * http://archive.org/download/Graphe2011/Graphe2011_archive.torrent
+  * https://archive.org/download/MimbarGraphe/MimbarGraphe_archive.torrent
+  * https://archive.org/download/Graphe2010/Graphe2010_archive.torrent
+  * https://archive.org/download/Graphe2011/Graphe2011_archive.torrent
+  * https://archive.org/download/Khotbah2013/Khotbah2013_archive.torrent
 
 
 ==Alkitab==
   * https://code.google.com/p/alkitabiah/downloads/list
-  * http://archive.org/download/BibleTranslations/BibleTranslations_archive.torrent
+  * https://archive.org/download/BibleTranslations/BibleTranslations_archive.torrent
 
 ==Pedang Roh==
   * http://graphe-ministry.org/bahasa/pedang_roh.html
@@ -45,7 +47,7 @@ torrent
 
 ==Artikels==
   * http://graphe-ministry.org/bahasa/artikel_gratis.html
-  * http://archive.org/download/ArtikelAlkitabiah/ArtikelAlkitabiah_archive.torrent
+  * https://archive.org/download/ArtikelAlkitabiah/ArtikelAlkitabiah_archive.torrent
 
 
 
