@@ -23,6 +23,8 @@
 
 
 =Daftar Multimedia yg bisa di download=
+==Audios==
+  * https://archive.org/search.php?query=pembahasan%20alkitab
 
 ==Videos ==
   * https://archive.org/download/Soteriologi/Soteriologi_archive.torrent
@@ -51,6 +53,7 @@ zipped mp3
 
 ==Alkitab==
   * https://code.google.com/p/alkitabiah/downloads/list
+  * https://archive.org/download/IndonesianBibles/IndonesianBibles_archive.torrent
   * https://archive.org/download/BibleTranslations/BibleTranslations_archive.torrent
 
 ==Pedang Roh==
