@@ -1,4 +1,8 @@
 #labels multimedia,audio,video,playlist,downloads,Featured
+=Alkitab=
+  * https://archive.org/details/IndonesianBibles
+  * ebooks: https://archive.org/details/BibleTranslations
+
 =eBooks=
   * http://www.wayoflife.org/free_ebooks/index1.php
   * http://buktidansaksi.com/resources?c=books_free_download
