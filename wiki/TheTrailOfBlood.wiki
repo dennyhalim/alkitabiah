@@ -21,7 +21,7 @@ people and others. Tell them about the wonderful facts of history brought out in
 them to order it. It would be most helpful to study it as classes in the BTU, WMU, and other 
 organizations. 
 
-<wiki:toc max_depth="2" />
+<wiki:toc max_depth="3" />
 
 =INTRODUCTION =
 By CLARENCE WALKER 
@@ -855,7 +855,7 @@ the tenth. Please note the chart . Just here where the separation has taken plac
 and Greek Catholics. You will soon see as the centuries advance, other new laws and doctrines— and 
 other desperately bitter persecution. (Schaff, Herzogg, En., Vol. 11, page 901.) 
 
-==="THE TRAIL OF BLOOD" ===
+===="THE TRAIL OF BLOOD" ====
 
 17. 1 again call your attention to those upon whom the hard hand of persecution fell. If fifty million 
 died of persecution during the 1,200 years of what are called the "Dark Ages," as history seems 
@@ -1058,7 +1058,7 @@ Mother many of her evils, among them her idea of a State Church. They both soon 
 Established Churches. Both were soon in the persecuting business, falling little, if any, short of their 
 Catholic Mother. 
 
-==="THE TRAIL OF BLOOD" ===
+===="THE TRAIL OF BLOOD" ====
 
 Sad and awful was the fate of these long-suffering Ana-Baptists. The world now offered no sure 
 place for hiding. Four hard persecutors were now hot on their trail. Surely theirs was a "Trail of 
@@ -1134,7 +1134,7 @@ persecute each other. You let us alone, and we will let you alone. For Catholics
 meant war with Germany, and for Lutherans to fight or persecute Catholics meant war with all the 
 countries where Catholicism predominated. 
 
-==="THE TRAIL OF BLOOD" ===
+===="THE TRAIL OF BLOOD" ====
 
 18. But persecutions did not then cease. The hated Ana-Baptists (called Baptists today), in spite of 
 all prior persecutions, and in spite of the awful fact that fifty million had already died martyr 
