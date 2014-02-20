@@ -1,5 +1,5 @@
 #labels church,history
-"The Trail of Blood..." 
+="The Trail of Blood..." =
 
 Following the Christians Down Through the Centuries . . . 
 
@@ -21,10 +21,12 @@ people and others. Tell them about the wonderful facts of history brought out in
 them to order it. It would be most helpful to study it as classes in the BTU, WMU, and other 
 organizations. 
 
-INTRODUCTION 
+<wiki:toc max_depth="3" />
+
+=INTRODUCTION =
 By CLARENCE WALKER 
 
-I 
+==I== 
 
 Dr. J. M. Carroll, the author of this book, was born in the state of Arkansas, January 8, 1858, and 
 died in Texas, January 10, 1931. His father, a Baptist preacher, moved to Texas when Brother 
@@ -54,7 +56,7 @@ principalities and powers in Heavenly places might be known by the Church, the m
 of God ... unto Him be glory in the Church by Christ Jesus throughout all ages, world without end, 
 Amen." (Eph. 3:9-10, 21) 
 
-II 
+==II ==
 
 It was wonderful to hear Dr. Carroll tell how he became interested in the history of the different 
 denominations-ESPECIALLY THEIR ORIGIN. He wrote the book after he was 70 years old, but 
@@ -139,7 +141,7 @@ from the time of Tertullian to the present time."
 
 Tertullian was born just fifty years after the death of the Apostle John. 
 
-Ill 
+==III==
 
 Baptists do not believe in Apostolic Succession. The Apostolic office ceased with the death of the 
 Apostles. It is to His churches that He promised a continual existence from the time He organized 
@@ -164,7 +166,7 @@ This history shows how the Lord's promise to His churches has been fulfilled. Dr
 that churches have been found in every age which have taught the doctrines He committed unto 
 them. Dr. Carroll calls these doctrines the "marks" of New Testament Churches. 
 
-"MARKS OF THE NEW TESTAMENT CHURCH" 
+==="MARKS OF THE NEW TESTAMENT CHURCH" ===
 
 1. Its Head and Founder— CHRIST. He is the law-giver; the Church is only the executive. (Matt. 
 16:18; Col. 1:18) 
@@ -193,7 +195,7 @@ preach the gospel should live of the gospel," (I Cor. 9:14)
 
 11. Its independence— separation of Church and State. (Matt. 22:21) 
 
-IV 
+==IV ==
 
 In any town there are many different churches— all claiming to be the true church. Dr. Carroll did 
 as you can do now— take the marks, or teachings, of the different churches and find the ones which 
@@ -212,7 +214,7 @@ day and age since Jesus said,
 
 
 
-"THE TRAIL OF BLOOD" 
+="THE TRAIL OF BLOOD" =
 
 or 
 Following the Christians Down Through the Centuries 
@@ -223,7 +225,7 @@ The Days of Christ to the Present Time
 Or to express it differently, but still expressively--" A history of the Doctrines as taught by Christ, 
 and His Apostles and those who have been loyal to them." 
 
-FIRST LECTURE 
+=FIRST LECTURE =
 
 "Remember the days of old. Consider the years of many generations; Ask thy father and he will 
 show thee. Thy elders and they will tell thee." (Deut. 32:7) 
@@ -263,7 +265,7 @@ many shams and make-believes. If possible, the very elect will be betrayed and d
 if possible, to trace it down through credible history, but more especially through the unerring, 
 infallible, words and marks of Divine truth. 
 
-Some Unerring, Infallible Marks 
+==Some Unerring, Infallible Marks ==
 
 If in going down through the centuries we run upon a group or groups of people bearing not these 
 distinguishing marks and teaching other things for fundamental doctrines, let us beware. 
@@ -323,7 +325,7 @@ Liberty," for everybody.
 
 And now, before proceeding with the history itself, let me call your attention to— 
 
-THE CHART 
+==THE CHART ==
 
 I believe, if you will study carefully this chart , you will better understand the history, and it will 
 greatly aid your memory in retaining what you hear and see. 
@@ -369,7 +371,7 @@ death of Peter, Paul and John.
 Having now about concluded with a general introduction and some very necessary and even vital 
 preliminaries, I come to the regular history— 
 
-FIRST PERIOD A.D. 30-500 
+==FIRST PERIOD A.D. 30-500 ==
 
 1. Under the strange but wonderful impulse and leadership of John the Baptist, the eloquent man 
 from the wilderness, and under the loving touch and miracle-working power of the Christ Himself, 
@@ -654,7 +656,7 @@ the utmost limit of the new Catholic temporal power. Remnants scattered over the
 finding uncertain hiding places in forests and mountains, valleys, dens and caves of the 
 earth. 
 
-SECOND LECTURE-600-1300 
+=SECOND LECTURE-600-1300 =
 
 1. We closed the first Lecture with the close of the fifth century. And yet a number of things had 
 their beginnings back in those early centuries, which were not even mentioned in the first Lecture. 
@@ -853,7 +855,7 @@ the tenth. Please note the chart . Just here where the separation has taken plac
 and Greek Catholics. You will soon see as the centuries advance, other new laws and doctrines— and 
 other desperately bitter persecution. (Schaff, Herzogg, En., Vol. 11, page 901.) 
 
-"THE TRAIL OF BLOOD" 
+=="THE TRAIL OF BLOOD" ==
 
 17. 1 again call your attention to those upon whom the hard hand of persecution fell. If fifty million 
 died of persecution during the 1,200 years of what are called the "Dark Ages," as history seems 
@@ -949,7 +951,7 @@ dictating politics of State government, and kings and queens are made or unmade 
 27. In 1274 A.D. another Council was called to bring about the reuniting of the Roman and Greek 
 branches of the great Catholic Church. This great assembly utterly failed to accomplish its purpose. 
 
-THIRD LECTURE-1400-1600 
+=THIRD LECTURE-1400-1600 =
 
 1. These three centuries, fifteenth, sixteenth, and seventeenth, are among the most eventful in all the 
 world's history, and especially is this true in Christian history. There was almost a continual 
@@ -1056,7 +1058,7 @@ Mother many of her evils, among them her idea of a State Church. They both soon 
 Established Churches. Both were soon in the persecuting business, falling little, if any, short of their 
 Catholic Mother. 
 
-"THE TRAIL OF BLOOD" 
+=="THE TRAIL OF BLOOD" ==
 
 Sad and awful was the fate of these long-suffering Ana-Baptists. The world now offered no sure 
 place for hiding. Four hard persecutors were now hot on their trail. Surely theirs was a "Trail of 
@@ -1132,7 +1134,7 @@ persecute each other. You let us alone, and we will let you alone. For Catholics
 meant war with Germany, and for Lutherans to fight or persecute Catholics meant war with all the 
 countries where Catholicism predominated. 
 
-"THE TRAIL OF BLOOD" 
+=="THE TRAIL OF BLOOD" ==
 
 18. But persecutions did not then cease. The hated Ana-Baptists (called Baptists today), in spite of 
 all prior persecutions, and in spite of the awful fact that fifty million had already died martyr 
@@ -1189,7 +1191,7 @@ people are to stand or fall in the day of judgment on the teachings of that book
 declaration in the book— "Search the Scriptures (the book) for in them ye think ye have eternal life. 
 And they are they which testify of me." Fearful the responsibility assumed by the Catholics! 
 
-FOURTH LECTURE-17th, 18th, 19th Centuries 
+=FOURTH LECTURE-17th, 18th, 19th Centuries =
 
 1. This lecture begins with the beginning of the Seventeenth Century (A.D. 1601). We have passed 
 very hurriedly over much important Christian history, but necessity his compelled this. 
@@ -1416,7 +1418,7 @@ in Rome as early as A.D. 63. Soon after that Claudia, Pudens, and others, among 
 preachers, carried the same gospel into England and especially into Wales. How mightily the Welch 
 Baptists have helped the Baptists in America can hardly be estimated. 
 
-LECTURE FIVE-RELIGION IN THE UNITED STATES 
+=LECTURE FIVE-RELIGION IN THE UNITED STATES =
 
 1. Through the Spanish and others of the Latin races, the Catholics as religionists, came to be the 
 first representatives of the Christian religion in South and Central America. But in North America, 
@@ -1434,7 +1436,7 @@ called "Puritans"— these were "Congregationalists." Governor Endicott was in c
 colony. The other group were Presbyterians. Among these two groups, however, were a number of 
 Christians with other views than theirs, also seeking relief from persecution. 
 
-"THE TRAIL OF BLOOD IN AMERICA" 
+=="THE TRAIL OF BLOOD IN AMERICA" ==
 
 
 
@@ -1760,7 +1762,7 @@ The following are some of the fundamental doctrines to which they held when they
 same are, the fundamental doctrines to which they held when they came out: And the same are the 
 fundamental doctrines to which they now hold. 
 
-FUNDAMENTAL DOCTRINES 
+=FUNDAMENTAL DOCTRINES =
 
 1. A spiritual Church, Christ its founder, its only head and law giver. 
 
@@ -1788,7 +1790,7 @@ their responsibilities to God— but cooperative in work.
 
 
 
-Partial list of books used in preparing lectures on "the Trail of Blood" 
+=Partial list of books used in preparing lectures on "the Trail of Blood" =
 
 History of Baptists in Virginia, Semple 
 
