@@ -21,7 +21,7 @@ people and others. Tell them about the wonderful facts of history brought out in
 them to order it. It would be most helpful to study it as classes in the BTU, WMU, and other 
 organizations. 
 
-<wiki:toc max_depth="3" />
+<wiki:toc max_depth="2" />
 
 =INTRODUCTION =
 By CLARENCE WALKER 
