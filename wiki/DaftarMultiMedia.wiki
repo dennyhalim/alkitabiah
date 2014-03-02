@@ -1,4 +1,6 @@
 #labels multimedia,audio,video,playlist,downloads,Featured
+  * http://alkitabiah.4shared.com
+
 =Alkitab=
   * https://archive.org/details/IndonesianBibles
   * ebooks: https://archive.org/details/BibleTranslations
