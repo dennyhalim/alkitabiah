@@ -1,9 +1,4 @@
 #EXTM3U
-#EXTINF:-1,Graphe-ministry.org - Arsip Kotbah
-    https://archive.org/download/MimbarGraphe/MimbarGraphe_vbr.m3u
-    https://archive.org/download/Graphe2011/Graphe2011_vbr.m3u
-    https://archive.org/download/Graphe2010/Graphe2010_vbr.m3u
-    https://archive.org/download/Khotbah2013/Khotbah2013_vbr.m3u
 #EXTINF:-1,Alkitab
     http://archive.org/download/AlkitabAudioMazmur/AlkitabAudioMazmur_vbr_mp3.m3u
     http://archive.org/download/AlkitabAudioAmsal/AlkitabAudioAmsal_vbr_mp3.m3u
@@ -36,7 +31,11 @@
     http://archive.org/download/AlkitabAudioYudas/AlkitabAudioYudas_vbr_mp3.m3u
     http://archive.org/download/AlkitabAudioWahyu/AlkitabAudioWahyu_vbr_mp3.m3u
 
-#EXTINF:-1,Graphe-ministry.org - Seminar Soteriologi
+
+#EXTINF:-1,Graphe-ministry.org - Seminar
+https://www.youtube.com/watch?v=q5h2sdaEvfA&list=PLgePXTzWlTEbsMwo9X-PRS1iOQJgI2EN0
+https://www.youtube.com/watch?v=qnp8cpGUfag&list=PLgePXTzWlTEbHwukhNTCxc3RbJdOvZRpa
+https://www.youtube.com/channel/UCJKiBlyYJbaPaRUOmrlD4Zw/playlists
 https://github.com/dennyhalim/alkitabiah/raw/master/playlist/SeminarSoteriology.m3u
 
 #EXTINF:-1,Graphe-ministry.org - Pembahasan Alkitab PB
@@ -69,3 +68,9 @@ https://archive.org/download/PembahasanAlkitabYudas_vbr_mp3.m3u
 https://archive.org/download/PembahasanAlkitabWahyu_vbr_mp3.m3u
 
 
+#EXTINF:-1,Graphe-ministry.org - Arsip Kotbah
+https://archive.org/download/MimbarGraphe/MimbarGraphe_vbr.m3u
+https://archive.org/download/Graphe2011/Graphe2011_vbr.m3u
+https://archive.org/download/Graphe2010/Graphe2010_vbr.m3u
+https://archive.org/download/Khotbah2013/Khotbah2013_vbr.m3u
+https://www.youtube.com/channel/UCJKiBlyYJbaPaRUOmrlD4Zw
