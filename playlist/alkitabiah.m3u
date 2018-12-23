@@ -36,7 +36,7 @@
 https://www.youtube.com/watch?v=q5h2sdaEvfA&list=PLgePXTzWlTEbsMwo9X-PRS1iOQJgI2EN0
 https://www.youtube.com/watch?v=qnp8cpGUfag&list=PLgePXTzWlTEbHwukhNTCxc3RbJdOvZRpa
 https://www.youtube.com/channel/UCJKiBlyYJbaPaRUOmrlD4Zw/playlists
-https://github.com/dennyhalim/alkitabiah/raw/master/playlist/SeminarSoteriology.m3u
+https://archive.org/download/Soteriologi/Soteriologi_files.xml #https://github.com/dennyhalim/alkitabiah/raw/master/playlist/SeminarSoteriology.m3u
 
 #EXTINF:-1,Graphe-ministry.org - Pembahasan Alkitab PB
 https://archive.org/download/PembahasanAlkitabInjilMatius_vbr_mp3.m3u
@@ -74,3 +74,7 @@ https://archive.org/download/Graphe2011/Graphe2011_vbr.m3u
 https://archive.org/download/Graphe2010/Graphe2010_vbr.m3u
 https://archive.org/download/Khotbah2013/Khotbah2013_vbr.m3u
 https://www.youtube.com/channel/UCJKiBlyYJbaPaRUOmrlD4Zw
+
+
+#EXTINF:-1,Radio Berita Klasik
+http://103.28.148.18:9030/listen.pls
