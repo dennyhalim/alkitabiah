@@ -1,78 +1,140 @@
-#EXTM3U
-#EXTINF:-1,Alkitab
+#EXTM3U #alkitabiah.org
+#EXTINF:-1 group-title="Alkitab Audio",Mazmur
     http://archive.org/download/AlkitabAudioMazmur/AlkitabAudioMazmur_vbr_mp3.m3u
+#EXTINF:-1 group-title="Alkitab Audio",Amsal
     http://archive.org/download/AlkitabAudioAmsal/AlkitabAudioAmsal_vbr_mp3.m3u
+#EXTINF:-1 group-title="Alkitab Audio",Pengkotbah
     http://archive.org/download/AlkitabAudioPengkotbah/AlkitabAudioPengkotbah_vbr_mp3.m3u
+#EXTINF:-1 group-title="Alkitab Audio",Matius
     http://archive.org/download/AlkitabAudioInjilMatius/AlkitabAudioInjilMatius_vbr_mp3.m3u
+#EXTINF:-1 group-title="Alkitab Audio",Markus
     http://archive.org/download/AlkitabAudioInjilMarkus/AlkitabAudioInjilMarkus_vbr_mp3.m3u
+#EXTINF:-1 group-title="Alkitab Audio",Lukas
     http://archive.org/download/AlkitabAudioInjilLukas/AlkitabAudioInjilLukas_vbr_mp3.m3u
+#EXTINF:-1 group-title="Alkitab Audio",Yohanes
     http://archive.org/download/AlkitabAudioInjilYohanes/AlkitabAudioInjilYohanes_vbr_mp3.m3u
+#EXTINF:-1 group-title="Alkitab Audio",Kisah Para Rasul
     http://archive.org/download/AlkitabAudioKisahParaRasul/AlkitabAudioKisahParaRasul_vbr_mp3.m3u
+#EXTINF:-1 group-title="Alkitab Audio",Roma
     http://archive.org/download/AlkitabAudioRoma/AlkitabAudioRoma_vbr_mp3.m3u
+#EXTINF:-1 group-title="Alkitab Audio",1Korintus
     http://archive.org/download/AlkitabAudio1Korintus/AlkitabAudio1Korintus_vbr_mp3.m3u
+#EXTINF:-1 group-title="Alkitab Audio",2Korintus
     http://archive.org/download/AlkitabAudio2Korintus/AlkitabAudio2Korintus_vbr_mp3.m3u
+#EXTINF:-1 group-title="Alkitab Audio",Galatia
     http://archive.org/download/AlkitabAudioGalatia/AlkitabAudioGalatia_vbr_mp3.m3u
+#EXTINF:-1 group-title="Alkitab Audio",Efesus
     http://archive.org/download/AlkitabAudioEfesus/AlkitabAudioEfesus_vbr_mp3.m3u
+#EXTINF:-1 group-title="Alkitab Audio",Filipi
     http://archive.org/download/AlkitabAudioFilipi/AlkitabAudioFilipi_vbr_mp3.m3u
+#EXTINF:-1 group-title="Alkitab Audio",Kolose
     http://archive.org/download/AlkitabAudioKolose/AlkitabAudioKolose_vbr_mp3.m3u
+#EXTINF:-1 group-title="Alkitab Audio",1Tesalonika
     http://archive.org/download/AlkitabAudio1Tesalonika/AlkitabAudio1Tesalonika_vbr_mp3.m3u
+#EXTINF:-1 group-title="Alkitab Audio",2Tesalonika
     http://archive.org/download/AlkitabAudio2Tesalonika/AlkitabAudio2Tesalonika_vbr_mp3.m3u
+#EXTINF:-1 group-title="Alkitab Audio",1Timotius
     http://archive.org/download/AlkitabAudio1Timotius/AlkitabAudio1Timotius_vbr_mp3.m3u
+#EXTINF:-1 group-title="Alkitab Audio",2Timotius
     http://archive.org/download/AlkitabAudio2Timotius/AlkitabAudio2Timotius_vbr_mp3.m3u
+#EXTINF:-1 group-title="Alkitab Audio",Titus
     http://archive.org/download/AlkitabAudioTitus/AlkitabAudioTitus_vbr_mp3.m3u
+#EXTINF:-1 group-title="Alkitab Audio",Filemon
     http://archive.org/download/AlkitabAudioFilemon/AlkitabAudioFilemon_vbr_mp3.m3u
+#EXTINF:-1 group-title="Alkitab Audio",Ibrani
     http://archive.org/download/AlkitabAudioIbrani/AlkitabAudioIbrani_vbr_mp3.m3u
+#EXTINF:-1 group-title="Alkitab Audio",Yakobus
     http://archive.org/download/AlkitabAudioYakobus/AlkitabAudioYakobus_vbr_mp3.m3u
+#EXTINF:-1 group-title="Alkitab Audio",1Petrus
     http://archive.org/download/AlkitabAudio1Petrus/AlkitabAudio1Petrus_vbr_mp3.m3u
+#EXTINF:-1 group-title="Alkitab Audio",2Petrus
     http://archive.org/download/AlkitabAudio2Petrus/AlkitabAudio2Petrus_vbr_mp3.m3u
+#EXTINF:-1 group-title="Alkitab Audio",1Yohanes
     http://archive.org/download/AlkitabAudio1Yohanes/AlkitabAudio1Yohanes_vbr_mp3.m3u
+#EXTINF:-1 group-title="Alkitab Audio",2Yohanes
     http://archive.org/download/AlkitabAudio2Yohanes/AlkitabAudio2Yohanes_vbr_mp3.m3u
+#EXTINF:-1 group-title="Alkitab Audio",3Yohanes
     http://archive.org/download/AlkitabAudio3Yohanes/AlkitabAudio3Yohanes_vbr_mp3.m3u
+#EXTINF:-1 group-title="Alkitab Audio",Yudas
     http://archive.org/download/AlkitabAudioYudas/AlkitabAudioYudas_vbr_mp3.m3u
+#EXTINF:-1 group-title="Alkitab Audio",Wahyu
     http://archive.org/download/AlkitabAudioWahyu/AlkitabAudioWahyu_vbr_mp3.m3u
 
 
-#EXTINF:-1,Graphe-ministry.org - Seminar
+#EXTINF:-1 group-title="Seminar",Graphe-ministry.org - Seminar Soteriologi
 https://www.youtube.com/watch?v=q5h2sdaEvfA&list=PLgePXTzWlTEbsMwo9X-PRS1iOQJgI2EN0
+#EXTINF:-1 group-title="Seminar",Graphe-ministry.org - Seminar Kalvinisme
 https://www.youtube.com/watch?v=qnp8cpGUfag&list=PLgePXTzWlTEbHwukhNTCxc3RbJdOvZRpa
+#EXTINF:-1 group-title="Seminar",Graphe-ministry.org - Seminar
 https://www.youtube.com/channel/UCJKiBlyYJbaPaRUOmrlD4Zw/playlists
+#EXTINF:-1 group-title="Seminar",Graphe-ministry.org - Seminar Soteriologi Server 2
 https://archive.org/download/Soteriologi/Soteriologi_files.xml #https://github.com/dennyhalim/alkitabiah/raw/master/playlist/SeminarSoteriology.m3u
 
-#EXTINF:-1,Graphe-ministry.org - Pembahasan Alkitab PB
+#EXTINF:-1 group-title="Eksegesis",Graphe-ministry.org - Pembahasan Kitab Matius
 https://archive.org/download/PembahasanAlkitabInjilMatius_vbr_mp3.m3u
+#EXTINF:-1 group-title="Eksegesis",Graphe-ministry.org - Pembahasan Kitab Markus
 https://archive.org/download/PembahasanAlkitabInjilMarkus_vbr_mp3.m3u
+#EXTINF:-1 group-title="Eksegesis",Graphe-ministry.org - Pembahasan Kitab Lukas
 https://archive.org/download/PembahasanAlkitabInjilLukas_vbr_mp3.m3u
+#EXTINF:-1 group-title="Eksegesis",Graphe-ministry.org - Pembahasan Kitab Yohanes
 https://archive.org/download/PembahasanAlkitabInjilYohanes_vbr_mp3.m3u
+#EXTINF:-1 group-title="Eksegesis",Graphe-ministry.org - Pembahasan Kitab KPR
 https://archive.org/download/PembahasanAlkitabKPR_vbr_mp3.m3u
+#EXTINF:-1 group-title="Eksegesis",Graphe-ministry.org - Pembahasan Kitab Roma
 https://archive.org/download/PembahasanAlkitabRoma_vbr_mp3.m3u
+#EXTINF:-1 group-title="Eksegesis",Graphe-ministry.org - Pembahasan Kitab 1Korintus
 https://archive.org/download/PembahasanAlkitab1Korintus_vbr_mp3.m3u
+#EXTINF:-1 group-title="Eksegesis",Graphe-ministry.org - Pembahasan Kitab 2Korintus
 https://archive.org/download/PembahasanAlkitab2Korintus_vbr_mp3.m3u
+#EXTINF:-1 group-title="Eksegesis",Graphe-ministry.org - Pembahasan Kitab Galatia
 https://archive.org/download/PembahasanAlkitabGalatia_vbr_mp3.m3u
+#EXTINF:-1 group-title="Eksegesis",Graphe-ministry.org - Pembahasan Kitab Efesus
 https://archive.org/download/PembahasanAlkitabEfesus_vbr_mp3.m3u
+#EXTINF:-1 group-title="Eksegesis",Graphe-ministry.org - Pembahasan Kitab Filipi
 https://archive.org/download/PembahasanAlkitabFilipi_vbr_mp3.m3u
+#EXTINF:-1 group-title="Eksegesis",Graphe-ministry.org - Pembahasan Kitab Kolose
 https://archive.org/download/PembahasanAlkitabKolose_vbr_mp3.m3u
+#EXTINF:-1 group-title="Eksegesis",Graphe-ministry.org - Pembahasan Kitab 1Tesalonika
 https://archive.org/download/PembahasanAlkitab1Tesalonika_vbr_mp3.m3u
+#EXTINF:-1 group-title="Eksegesis",Graphe-ministry.org - Pembahasan Kitab 2Tesalonika
 https://archive.org/download/PembahasanAlkitab2Tesalonika_vbr_mp3.m3u
+#EXTINF:-1 group-title="Eksegesis",Graphe-ministry.org - Pembahasan Kitab 1Timotius
 https://archive.org/download/PembahasanAlkitab1Timotius_vbr_mp3.m3u
+#EXTINF:-1 group-title="Eksegesis",Graphe-ministry.org - Pembahasan Kitab 2Timotius
 https://archive.org/download/PembahasanAlkitab2Timotius_vbr_mp3.m3u
+#EXTINF:-1 group-title="Eksegesis",Graphe-ministry.org - Pembahasan Kitab Titus
 https://archive.org/download/PembahasanAlkitabTitus_vbr_mp3.m3u
+#EXTINF:-1 group-title="Eksegesis",Graphe-ministry.org - Pembahasan Kitab Filemon
 https://archive.org/download/PembahasanAlkitabFilemon_vbr_mp3.m3u
+#EXTINF:-1 group-title="Eksegesis",Graphe-ministry.org - Pembahasan Kitab Ibrani
 https://archive.org/download/PembahasanAlkitabIbrani_vbr_mp3.m3u
+#EXTINF:-1 group-title="Eksegesis",Graphe-ministry.org - Pembahasan Kitab Yakobus
 https://archive.org/download/PembahasanAlkitabYakobus_vbr_mp3.m3u
+#EXTINF:-1 group-title="Eksegesis",Graphe-ministry.org - Pembahasan Kitab 1Petrus
 https://archive.org/download/PembahasanAlkitab1Petrus_vbr_mp3.m3u
+#EXTINF:-1 group-title="Eksegesis",Graphe-ministry.org - Pembahasan Kitab 2Petrus
 https://archive.org/download/PembahasanAlkitab2Petrus_vbr_mp3.m3u
+#EXTINF:-1 group-title="Eksegesis",Graphe-ministry.org - Pembahasan Kitab 1Yohanes
 https://archive.org/download/PembahasanAlkitab1Yohanes_vbr_mp3.m3u
+#EXTINF:-1 group-title="Eksegesis",Graphe-ministry.org - Pembahasan Kitab 2Yohanes
 https://archive.org/download/PembahasanAlkitab2Yohanes_vbr_mp3.m3u
+#EXTINF:-1 group-title="Eksegesis",Graphe-ministry.org - Pembahasan Kitab 3Yohanes
 https://archive.org/download/PembahasanAlkitab3Yohanes_vbr_mp3.m3u
+#EXTINF:-1 group-title="Eksegesis",Graphe-ministry.org - Pembahasan Kitab Yudas
 https://archive.org/download/PembahasanAlkitabYudas_vbr_mp3.m3u
+#EXTINF:-1 group-title="Eksegesis",Graphe-ministry.org - Pembahasan Kitab Wahyu
 https://archive.org/download/PembahasanAlkitabWahyu_vbr_mp3.m3u
 
 
-#EXTINF:-1,Graphe-ministry.org - Arsip Kotbah
-https://archive.org/download/MimbarGraphe/MimbarGraphe_vbr.m3u
-https://archive.org/download/Graphe2011/Graphe2011_vbr.m3u
+#EXTINF:-1 group-title="Arsip",Graphe-ministry.org - Kotbah 2010
 https://archive.org/download/Graphe2010/Graphe2010_vbr.m3u
+#EXTINF:-1 group-title="Arsip",Graphe-ministry.org - Kotbah 2011a
+https://archive.org/download/Graphe2011/Graphe2011_vbr.m3u
+#EXTINF:-1 group-title="Arsip",Graphe-ministry.org - Kotbah 2011b
+https://archive.org/download/MimbarGraphe/MimbarGraphe_vbr.m3u
+#EXTINF:-1 group-title="Arsip",Graphe-ministry.org - Kotbah 2013
 https://archive.org/download/Khotbah2013/Khotbah2013_vbr.m3u
+#EXTINF:-1 group-title="Arsip",Graphe-ministry.org - Kotbah
 https://www.youtube.com/channel/UCJKiBlyYJbaPaRUOmrlD4Zw
 
 
