@@ -1,4 +1,8 @@
 #EXTM3U #alkitabiah.org
+
+#EXTINF:-1,Graphe-ministry.org - Kebenaran Memerdekakan
+https://archive.org/download/KebenaranYangMemerdekakan/KebenaranYangMemerdekakan_vbr.m3u
+
 #EXTINF:-1 group-title="Alkitab Audio",Mazmur
     http://archive.org/download/AlkitabAudioMazmur/AlkitabAudioMazmur_vbr_mp3.m3u
 #EXTINF:-1 group-title="Alkitab Audio",Amsal
