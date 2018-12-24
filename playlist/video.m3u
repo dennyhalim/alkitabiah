@@ -1,19 +1,19 @@
 #EXTM3U #alkitabiah.org 
 #copas link ini kedalam aplikasi IPTV atau VLC : https://is.gd/alkitabiahtv
 
-#EXTINF:-1,Seminar Soteriologi - Graphe-ministry.org 
+#EXTINF:-1 group-title="Doktrin",Seminar Soteriologi - Graphe-ministry.org 
 https://www.youtube.com/watch?v=q5h2sdaEvfA&list=PLgePXTzWlTEbsMwo9X-PRS1iOQJgI2EN0
-#EXTINF:-1,Pengajaran Villy Tuuk - alkitabiah.wordpress.com
+#EXTINF:-1 group-title="Doktrin",Pengajaran Villy Tuuk - alkitabiah.wordpress.com
 https://www.youtube.com/channel/UChMijysHIRNx1uoAR-0pZ5w
-#EXTINF:-1,Pengajaran Gembala Firman Legowo - alkitabiah.wordpress.com
+#EXTINF:-1 group-title="Doktrin",Pengajaran Gembala Firman Legowo - alkitabiah.wordpress.com
 https://www.youtube.com/channel/UCmKqqEmC4-L5V8umpBGXK3A
-#EXTINF:-1,Seminar Kalvinisme - Graphe-ministry.org 
+#EXTINF:-1 group-title="Doktrin",Seminar Kalvinisme - Graphe-ministry.org 
 https://www.youtube.com/watch?v=qnp8cpGUfag&list=PLgePXTzWlTEbHwukhNTCxc3RbJdOvZRpa
-#EXTINF:-1,Seminar - Graphe-ministry.org 
+#EXTINF:-1 group-title="Doktrin",Seminar - Graphe-ministry.org 
 https://www.youtube.com/channel/UCJKiBlyYJbaPaRUOmrlD4Zw/playlists
-#EXTINF:-1,Kotbah - Graphe-ministry.org 
+#EXTINF:-1 group-title="Doktrin",Kotbah - Graphe-ministry.org 
 https://www.youtube.com/channel/UCJKiBlyYJbaPaRUOmrlD4Zw
-#EXTINF:-1,GBIA Filadelfia - alkitabiah.wordpress.com
+#EXTINF:-1 group-title="Doktrin",GBIA Filadelfia - alkitabiah.wordpress.com
 https://www.youtube.com/channel/UCSRsMRoWP2JXveso5A7HQng
 
 #EXTINF:-1 group-title="Hymne",Best Loved Hymns
