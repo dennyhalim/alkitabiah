@@ -1,5 +1,6 @@
 #EXTM3U #alkitabiah.org 
 #copas link ini kedalam aplikasi android Simple IPTV : https://is.gd/alkitabiahmedia
+#untuk video gunakan https://is.gd/alkitabiahtv
 
 #EXTINF:-1 group-title="Kebenaran Memerdekakan",Mengapa Percaya Allah - Graphe-ministry.org 
 http://archive.org/download/KhotbahKebenaranMemerdekakan/01-MengapaSayaPercayaAdaAllah.mp3
@@ -147,15 +148,3 @@ https://archive.org/download/Khotbah2013/Khotbah2013_vbr.m3u
 #EXTINF:-1 group-title="Arsip",Kotbah - Graphe-ministry.org 
 https://www.youtube.com/channel/UCJKiBlyYJbaPaRUOmrlD4Zw
 
-#player harus mendukung video / youtube 
-#EXTINF:-1 group-title="Seminar",Seminar Soteriologi - Graphe-ministry.org 
-https://www.youtube.com/watch?v=q5h2sdaEvfA&list=PLgePXTzWlTEbsMwo9X-PRS1iOQJgI2EN0
-#EXTINF:-1 group-title="Seminar",Seminar Kalvinisme - Graphe-ministry.org 
-https://www.youtube.com/watch?v=qnp8cpGUfag&list=PLgePXTzWlTEbHwukhNTCxc3RbJdOvZRpa
-#EXTINF:-1 group-title="Seminar",Seminar - Graphe-ministry.org 
-https://www.youtube.com/channel/UCJKiBlyYJbaPaRUOmrlD4Zw/playlists
-#EXTINF:-1 group-title="Seminar",Seminar Soteriologi Server 2 - Graphe-ministry.org 
-https://github.com/dennyhalim/alkitabiah/raw/master/playlist/SeminarSoteriology.m3u8
-
-#EXTINF:-1,Radio Berita Klasik - Graphe-ministry.org 
-http://103.28.148.18:9030/;stream.mp3 #http://103.28.148.18:9030/listen.pls #http://103.28.148.18:9030/;stream.mp3
