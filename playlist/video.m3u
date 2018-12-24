@@ -49,6 +49,8 @@ http://103.28.148.18:9030/;stream.mp3 #http://103.28.148.18:9030/listen.pls #htt
 #EXTINF:-1 group-title="Film",Pengangkatan Rapture
 https://www.youtube.com/watch?v=GVWCzrCw3uk
 https://www.youtube.com/watch?v=5MP34TzIE20
+#EXTINF:-1 group-title="Film",Christian Movies Collection
+https://www.youtube.com/watch?v=4sD9fjgc3b4&list=PLKgPiloikESIzTgGoALIJVMPioIib8Eo4
 
 #EXTINF:-1 group-title="English",crossexamined.org
 https://www.youtube.com/user/TurekVideo
