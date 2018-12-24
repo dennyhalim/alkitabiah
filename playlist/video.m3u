@@ -23,13 +23,6 @@ https://www.youtube.com/channel/UC-4e6J3MyVOLqvyYvDHn-nQ
 #EXTINF:-1 group-title="GBIA",GBIA Kasih Lintang Batang
 https://www.youtube.com/channel/UCvPcGnKRirXaHK2Y2ZW32yQ
 
-#EXTINF:-1 group-title="Hymne",Best Loved Hymns
-https://www.youtube.com/channel/UC0_CahgiVgLNTrQXHSEVMBw
-#EXTINF:-1 group-title="Hymne",Hymns of the Faith
-https://www.youtube.com/watch?v=zz8MKWs8nOQ
-#EXTINF:-1 group-title="Hymne",Hymns Piano
-https://www.youtube.com/watch?v=mAgGv2YwFpw
-
 #EXTINF:-1 group-title="Kebenaran Memerdekakan",Mengapa Percaya Allah Graphe-ministry.org 
 http://archive.org/download/KhotbahKebenaranMemerdekakan/01-MengapaSayaPercayaAdaAllah.mp3
 #EXTINF:-1 group-title="Kebenaran Memerdekakan",Alkitab Satu-satunya Firman Allah Graphe-ministry.org 
@@ -49,6 +42,14 @@ http://archive.org/download/KhotbahKebenaranMemerdekakan/08-MembahasKalvinisme.m
 
 #EXTINF:-1 group-title="Kebenaran Memerdekakan",Radio Berita Klasik - Graphe-ministry.org 
 http://103.28.148.18:9030/;stream.mp3 #http://103.28.148.18:9030/listen.pls #http://103.28.148.18:9030/;stream.mp3
+
+
+#EXTINF:-1 group-title="Hymne",Best Loved Hymns
+https://www.youtube.com/channel/UC0_CahgiVgLNTrQXHSEVMBw
+#EXTINF:-1 group-title="Hymne",Hymns of the Faith
+https://www.youtube.com/watch?v=zz8MKWs8nOQ
+#EXTINF:-1 group-title="Hymne",Hymns Piano
+https://www.youtube.com/watch?v=mAgGv2YwFpw
 
 #EXTINF:-1 group-title="Film",Pengangkatan Rapture
 https://www.youtube.com/watch?v=GVWCzrCw3uk
