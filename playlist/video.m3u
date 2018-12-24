@@ -43,6 +43,9 @@ http://archive.org/download/KhotbahKebenaranMemerdekakan/07-MencariGerejaYangAlk
 #EXTINF:-1 group-title="Kebenaran Memerdekakan",Kalvinisme Graphe-ministry.org 
 http://archive.org/download/KhotbahKebenaranMemerdekakan/08-MembahasKalvinisme.mp3
 
+#EXTINF:-1,Radio Berita Klasik - Graphe-ministry.org 
+http://103.28.148.18:9030/;stream.mp3 #http://103.28.148.18:9030/listen.pls #http://103.28.148.18:9030/;stream.mp3
+
 #EXTINF:-1 group-title="Film",Pengangkatan Rapture
 https://www.youtube.com/watch?v=GVWCzrCw3uk
 https://www.youtube.com/watch?v=5MP34TzIE20
@@ -60,5 +63,3 @@ https://www.youtube.com/user/rzimmedia
 #EXTINF:-1 group-title="English",ReasonableFaith.org
 https://www.youtube.com/user/ReasonableFaithOrg
 
-#EXTINF:-1,Radio Berita Klasik - Graphe-ministry.org 
-http://103.28.148.18:9030/;stream.mp3 #http://103.28.148.18:9030/listen.pls #http://103.28.148.18:9030/;stream.mp3
