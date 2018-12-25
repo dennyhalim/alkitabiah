@@ -43,9 +43,9 @@ http://archive.org/download/KhotbahKebenaranMemerdekakan/07-MencariGerejaYangAlk
 http://archive.org/download/KhotbahKebenaranMemerdekakan/08-MembahasKalvinisme.mp3
 
 #EXTINF:-1 group-title="Kebenaran Memerdekakan",Radio Berita Klasik opsi1
-http://103.28.148.18:9030/listen.pls
-#EXTINF:-1 group-title="Kebenaran Memerdekakan",Radio Berita Klasik opsi2
 http://103.28.148.18:9030/;stream.mp3
+#EXTINF:-1 group-title="Kebenaran Memerdekakan",Radio Berita Klasik opsi2
+http://103.28.148.18:9030/listen.pls
 
 
 #EXTINF:-1 group-title="Hymne",Hymns Piano
