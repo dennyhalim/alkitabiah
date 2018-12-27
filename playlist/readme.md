@@ -1,1 +1,1 @@
-cara nonton alkitabiah.org tv di ponsel/tablet/smarttv android: https://alkitabiah.org/?p273
+cara nonton alkitabiah.org tv di ponsel/tablet/smarttv android: https://alkitabiah.org/?p=273
