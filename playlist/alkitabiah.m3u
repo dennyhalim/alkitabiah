@@ -150,5 +150,5 @@ https://archive.org/download/MimbarGraphe/MimbarGraphe_vbr.m3u
 https://archive.org/download/Khotbah2013/Khotbah2013_vbr.m3u
 #EXTINF:-1 group-title="Arsip",Kotbah - Graphe-ministry.org 
 https://www.youtube.com/channel/UCJKiBlyYJbaPaRUOmrlD4Zw
-
-
+#EXTINF:-1 group-title="Arsip",Lectures
+https://github.com/dennyhalim/alkitabiah/raw/master/playlist/lectures.m3u
