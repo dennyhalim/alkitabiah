@@ -1,0 +1,1 @@
+alkitab terjemahan literal
