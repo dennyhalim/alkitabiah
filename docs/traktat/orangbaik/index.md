@@ -17,4 +17,4 @@
 ![Yesus Dihukum Untuk Dosamu](indonesian-p8.jpg)
 
 
-  * [is.gd/selamat](https://is.gd/selamat)
+  * [https://is.gd/selamat]
