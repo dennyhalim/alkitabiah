@@ -15,3 +15,6 @@
 ![Dosa Harus Dihukum](indonesian-p7.jpg)
 
 ![Yesus Dihukum Untuk Dosamu](indonesian-p8.jpg)
+
+
+  * https://is.gd/selamat
