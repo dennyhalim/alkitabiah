@@ -16,3 +16,5 @@ statistik alkitab
     Nama "Yesus" muncul: 1.470 kali
 
 http://labs.sabda.org/Statistik_Alkitab
+
+[klik download aplikasi android](https://dennyhalim.github.io/alkitabiah/files/app-debug.apk) 
