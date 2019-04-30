@@ -6,15 +6,15 @@
 
 ![Si Baik adalah Pezinah dan Penghujat](indonesian-p3.jpg)
 
-![Jauh dari Sempurna](indonesian-p4.jpg)
+![Si Baik ternyata Jauh dari Sempurna](indonesian-p4.jpg)
 
-![Standar Moral Tuhan](indonesian-p5.jpg)
+![Standar Moral Tuhan Yang Maha Kudus](indonesian-p5.jpg)
 
-![Hakim yang Adil](indonesian-p6.jpg)
+![Allah Hakim Yang Maha Adil](indonesian-p6.jpg)
 
 ![Dosa Harus Dihukum](indonesian-p7.jpg)
 
-![Yesus Dihukum Untuk Dosamu](indonesian-p8.jpg)
+![Yesus Sudah Dihukum Untuk Dosamu](indonesian-p8.jpg)
 
 
   * [is.gd/selamat](https://yesustuhan.wordpress.com/tag/keselamatan/)
