@@ -93,4 +93,8 @@
 彼得前书2:24 ；以赛亚书53:6 ；雅各书1:15；罗马书10:9-10 ；以弗所书2:8-9）；箴言27:1 ；哥林
 多前书15:3-4 ；约翰福音10:27-30 ；约翰一书5:13 。
 神救人的简易方案生死存亡的大事
+
 https://docs.wixstatic.com/ugd/61244c_a5dfcdb61b874fdaac951e6647c43c3a.pdf
+http://www.ethnicharvest.org/peoples/countries/chinese.htm
+
+{% include footer.html %}
