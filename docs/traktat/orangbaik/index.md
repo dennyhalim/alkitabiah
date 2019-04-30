@@ -19,4 +19,4 @@
 
   * [is.gd/selamat](https://yesustuhan.wordpress.com/tag/keselamatan/)
 
-{% include_relative footer.html %}
+{% include footer.html %}
