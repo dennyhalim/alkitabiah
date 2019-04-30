@@ -148,4 +148,8 @@ yang di sorga”
 (Matius 10:32).  Ford Porter   
 IND 147
 Copyright: Lifegate Inc., 2007
+
+
 https://docs.wixstatic.com/ugd/61244c_9c18a2433521470a8825a6dd12d6457e.pdf
+
+{% include footer.html %}
