@@ -106,18 +106,19 @@ keselamatan dan kehidupan yang kekal, karena rahmat dan anugerahMu.  Amin.”
 
 Terimalah Firman Allah
  dan dapatkanlah keselamatan daripadaNya dengan iman.  Percayalah, 
-maka Anda akan diselamatkan.  Bukan gereja, perkumpulan ataupun perbuatanperbuatan baik yang 
+maka Anda akan diselamatkan.  Bukan gereja, perkumpulan ataupun perbuatan-perbuatan baik yang 
 menyelamatkan Anda.  
 Ingatlah, hanya Allah yang dapat melakukan karya keselamatan, secara 
-menyeluruh!
+sempurna!
 
 Rencana keselamatan Allah yang sederhana adalah: Anda orang berdosa.
  Apabila Anda 
 tidak percaya dalam Yesus yang telah mati menggantikan Anda, pasti Anda akan tinggal untuk 
-selamalamanya didalam neraka.  Jika Anda percaya kepadaNya sebagai Juruselamat yang telah 
+selama-lamanya didalam neraka.  Jika Anda percaya kepadaNya sebagai Juruselamat yang telah 
 disalibkan, dikuburkan serta dibangkitkan, Anda menerima pengampunan atas segala dosa dan 
 karunia 
 keselamatan kekal karena iman.
+
   Anda berkata, “Tidak mungkin semudah itu.”  Ya, memang semudah 
 itu!  Ini sesuai Alkitab.  Ini adalah rencana Allah.  
 Hai kawan, percayalah pada Yesus dan terimalah Dia 
@@ -135,7 +136,8 @@ dunia.
 akan kehilangan Surga dan kehilangan segala-galanya. Saya mohon dengan sangat, 
 biarkanlah Allah 
 selamatkan Anda saat ini juga! Kuasa Allah akan selamatkan Anda, tetapkan keselamatan Anda dan 
-memungkinkan Anda untuk hidup sebagai orang kristen yang selalu menang atas pencobaan.
+memungkinkan Anda untuk hidup sebagai orang Kristen yang selalu menang atas pencobaan.
+
 “Pencobaan-pencobaan yang kamu alami ialah pencobaan-pencobaan biasa, yang tidak melebihi 
 kekuatan manusia.  Sebab Allah setia dan karena itu Ia tidak akan membiarkan kamu dicobai 
 melampaui kekuatanmu.  Pada waktu kamu dicobaiIa akan memberikan kepadamu jalankeluar, 
@@ -148,13 +150,10 @@ Allah.  Janji-janji Allah tidak pernah berubah.
 tiga hal
  yang perlu dilakukan 
 setiap hari untuk pertumbuhan iman: 
-Berdoa
-–Berbicara kepada Allah.  
-Bacalah Alkitab
-–Biarkan Allah 
-berbicara.  
-Bersaksi
-–Anda berbicara bagi Allah.
+
+  * Berdoa : Berbicara kepada Allah.  
+  * Bacalah Alkitab : Biarkan Allah berbicara.  
+  * Bersaksi Anda berbicara bagi Allah.
 
 Anda perlu dibaptis
  sesuai kepatuhan Anda pada Tuhan Yesus Kristus sebagai 
@@ -162,12 +161,15 @@ kesaksian pada
 khalayak ramai atas keselamatan Anda,
  dan kemudian bergabung secepatnya dengan gereja yang 
 menjunjung tinggi Alkitab sebagai Firman Allah.  
+
 “Jadi janganlah malu bersaksi tentang Tuhan kita . . . ”
 (2 Timotius 1:8).
 
 “Setiap orang yang mengakui aku di depan manusia, Aku juga akan mengakuinya di depan BapaKu 
 yang di sorga” 
-(Matius 10:32).  Ford Porter   
+(Matius 10:32).  
+
+Ford Porter   
 IND 147
 Copyright: Lifegate Inc., 2007
 
@@ -175,5 +177,8 @@ Copyright: Lifegate Inc., 2007
 https://docs.wixstatic.com/ugd/61244c_9c18a2433521470a8825a6dd12d6457e.pdf
 
 is.gd/selamat
+
+https://dennyhalim.github.io/alkitabiah/traktat/gsps/gsps-ae.html
+https://dennyhalim.github.io/alkitabiah/traktat/gsps/gsps-cn.html
 
 {% include footer.html %}
