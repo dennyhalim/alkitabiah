@@ -79,7 +79,7 @@ Yesus Kristus dan engkau akan selamat . . .”
 Anda, dikuburkan, dan dibangkitkan kembali oleh Allah.
 
 KebangkitanNya memastikan
- bahwa orang percaya dapat yakin akan kehidupan kekal sesaat Yesus 
+ bahwa orang percaya dapat yakin akan kehidupan kekal pada saat Yesus 
 diterima sebagai Juruselamat.  
 “Tetapi semua orang yang menerimaNya diberiNya kuasa supaya 
 menjadi anak-anak Allah, yaitu mereka yang percaya dalam namaNya”
