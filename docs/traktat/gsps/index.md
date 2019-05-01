@@ -102,7 +102,7 @@ ini.”
 Yesus telah menggantikan aku waktu Dia mati di kayu salib.  Aku percaya bahwa penumpahan 
 darahNya, kematianNya, penguburanNya dan kebangkitanNya adalah untuk aku.  Sekarang aku 
 menerimaNya sebagai Juruselamatku. Terimakasih atas pengampunan dosa-dosaku, pemberian 
-keselamatan dan kehidupan yang kekal, karena rahmat dan anugerahMu.  Amim.”
+keselamatan dan kehidupan yang kekal, karena rahmat dan anugerahMu.  Amin.”
 
 Terimalah Firman Allah
  dan dapatkanlah keselamatan daripadaNya dengan iman.  Percayalah, 
