@@ -178,7 +178,7 @@ https://docs.wixstatic.com/ugd/61244c_9c18a2433521470a8825a6dd12d6457e.pdf
 
 is.gd/selamat
 
-https://dennyhalim.github.io/alkitabiah/traktat/gsps/gsps-ae.html
-https://dennyhalim.github.io/alkitabiah/traktat/gsps/gsps-cn.html
+[bahasa arab](https://dennyhalim.github.io/alkitabiah/traktat/gsps/gsps-ae.html)
+[bahasa china](https://dennyhalim.github.io/alkitabiah/traktat/gsps/gsps-cn.html)
 
 {% include footer.html %}
