@@ -1,1 +1,176 @@
-{% include /playlist/video.m3u %}
+#EXTM3U #alkitabiah.org 
+#
+#copas link ini kedalam aplikasi IPTV  : https://is.gd/alkitabiahtv
+#Jika link diatas terblokir, coba copas salah satu link ini: https://tiny.cc/alkitabiahtv  atau  https://kutt.it/jHULAv  atau  https://elbo.in/alkitabiahtv
+#untuk media audio gunakan https://is.gd/alkitabiahmedia
+
+#petunjuk lengkap: https://alkitabiah.org/?p=273
+
+#EXTINF:-1 group-title="Doktrin",Peta Garis Zaman + Jalan Keselamatan Graphe-ministry.org 
+https://www.youtube.com/playlist?list=PLghyG1d1S98d9tahHE_03kdp1Sezy62p3&loop=1&autoplay=0
+#EXTINF:-1 group-title="Doktrin",Villy Tuuk
+https://www.youtube.com/channel/UChMijysHIRNx1uoAR-0pZ5w
+#EXTINF:-1 group-title="Doktrin",Firman Legowo
+https://www.youtube.com/channel/UCFYuS8hbR8ck4sIq0gjMFzQ
+#EXTINF:-1 group-title="Doktrin",alkitabiah.wordpress.com
+https://www.youtube.com/channel/UCmKqqEmC4-L5V8umpBGXK3A
+#EXTINF:-1 group-title="Doktrin",Seminar Kalvinisme Graphe-ministry.org 
+https://www.youtube.com/playlist?list=PLgePXTzWlTEbHwukhNTCxc3RbJdOvZRpa&loop=1&autoplay=0
+#EXTINF:-1 group-title="Doktrin",Seminar Lain Graphe-ministry.org 
+https://www.youtube.com/channel/UCJKiBlyYJbaPaRUOmrlD4Zw/playlists
+#EXTINF:-1 group-title="Doktrin",alkitabiah.wordpress.com
+https://www.youtube.com/channel/UCSRsMRoWP2JXveso5A7HQng
+
+#EXTINF:-1 group-title="Kebenaran Memerdekakan",Mengapa Percaya Allah Graphe-ministry.org 
+http://archive.org/download/KhotbahKebenaranMemerdekakan/01-MengapaSayaPercayaAdaAllah.mp3
+#EXTINF:-1 group-title="Kebenaran Memerdekakan",Alkitab Satu-satunya Firman Allah Graphe-ministry.org 
+http://archive.org/download/KhotbahKebenaranMemerdekakan/02-AlkitabSatu-satunyaFirmanAllah.mp3
+#EXTINF:-1 group-title="Kebenaran Memerdekakan",Alkitab Firman Tuhan Graphe-ministry.org 
+http://archive.org/download/KhotbahKebenaranMemerdekakan/03-AlkitabFirmanTuhan.mp3
+#EXTINF:-1 group-title="Kebenaran Memerdekakan",Kepastian Masuk Sorga Graphe-ministry.org 
+http://archive.org/download/KhotbahKebenaranMemerdekakan/04-MendapatkanKepastianMasukSorga.mp3
+#EXTINF:-1 group-title="Kebenaran Memerdekakan",Kepastian Keselamatan Graphe-ministry.org 
+http://archive.org/download/KhotbahKebenaranMemerdekakan/05-KepastianKeselamatan.mp3
+#EXTINF:-1 group-title="Kebenaran Memerdekakan",Bukti Lahir Baru Graphe-ministry.org 
+http://archive.org/download/KhotbahKebenaranMemerdekakan/06-BuktiOrangYangSudahLahirBaru.mp3
+#EXTINF:-1 group-title="Kebenaran Memerdekakan",Gereja Alkitabiah Graphe-ministry.org 
+http://archive.org/download/KhotbahKebenaranMemerdekakan/07-MencariGerejaYangAlkitabiah.mp3
+#EXTINF:-1 group-title="Kebenaran Memerdekakan",Kalvinisme Graphe-ministry.org 
+http://archive.org/download/KhotbahKebenaranMemerdekakan/08-MembahasKalvinisme.mp3
+
+#EXTINF:-1 group-title="Kebenaran Memerdekakan",Radio Berita Klasik opsi1
+http://103.28.148.18:9030/;stream.mp3
+#EXTINF:-1 group-title="Kebenaran Memerdekakan",Radio Berita Klasik opsi2
+http://103.28.148.18:9030/listen.pls
+
+#EXTINF:-1 group-title="Gereja Lokal",Graphe-ministry.org 
+https://www.youtube.com/channel/UCJKiBlyYJbaPaRUOmrlD4Zw
+#EXTINF:-1 group-title="Gereja Lokal",GBIA Depok
+https://www.youtube.com/channel/UC-4e6J3MyVOLqvyYvDHn-nQ
+#EXTINF:-1 group-title="Gereja Lokal",GBIA Kasih Lintang Batang
+https://www.youtube.com/channel/UCvPcGnKRirXaHK2Y2ZW32yQ
+#EXTINF:-1 group-title="Gereja Lokal",lomba.alkitabiah.org/2018
+https://www.youtube.com/playlist?list=PLghyG1d1S98c9RZNA1IzTwEC2Bm6NAoyI&loop=1&autoplay=0
+
+#EXTINF:-1 group-title="Hymne",Hymns 
+https://www.youtube.com/playlist?list=PLghyG1d1S98eYYNgPvK8wDLe3-ajR1bSl&loop=1&autoplay=0
+#EXTINF:-1 group-title="Hymne",Best Loved Hymns
+https://www.youtube.com/channel/UC0_CahgiVgLNTrQXHSEVMBw
+#EXTINF:-1 group-title="Hymne",Old Chinese Hymns
+https://www.youtube.com/playlist?list=PL4A987E3F7E4EEEFC
+#EXTINF:-1 group-title="Hymne",Kids Hymns
+https://www.youtube.com/playlist?list=PLaxLhQS-sdOwkrsWlld8KCY3ozkuOKCHz&loop=1&autoplay=0
+
+#EXTINF:-1 group-title="Film",Kartun Injil
+https://www.youtube.com/playlist?list=PLghyG1d1S98ce9TTBPes3ldbb3LICSoxb&loop=1&autoplay=0
+#EXTINF:-1 group-title="Film",Film Alkitab
+https://www.youtube.com/playlist?list=PLghyG1d1S98eBYxmKo_faigYdayoBSU3R&loop=1&autoplay=0
+#EXTINF:-1 group-title="Film",animasi Alkitab
+https://www.youtube.com/channel/UCDwqRwgIa2PFVTBwb5cmZzw/playlists
+#EXTINF:-1 group-title="Film",superbookindo.tv
+https://www.youtube.com/playlist?list=PLUm3cB67QTBOLxBMeGMTKMWK482k2EqPB&loop=1&autoplay=0
+#EXTINF:-1 group-title="Film",Film Alkitab Anak
+https://www.youtube.com/playlist?list=PLCsOXxz8i1vNF-fmfV0Jb0-N-g32VpMj_&loop=1&autoplay=0
+#EXTINF:-1 group-title="Film",explainED Indonesia
+https://www.youtube.com/playlist?list=PL6SEOeFr8pMH9oxO-C45o6MvcEfIVpghC&loop=1&autoplay=0
+#EXTINF:-1 group-title="Film",livingwaters.com/movies
+https://www.youtube.com/playlist?list=PLF7A795CE0A9857FE&loop=1&autoplay=0
+#EXTINF:-1 group-title="Film",archaeology
+https://www.youtube.com/playlist?list=PLo1jFQbGemFd3_zx6LmTABUECcPXzM8S7&loop=1&autoplay=0
+#EXTINF:-1 group-title="Film",Foxe's Book of Martyr
+https://www.youtube.com/playlist?list=PLOGPDS-9aZJFclaSuaNQPA9njbnK80SZK&loop=1&autoplay=0
+#EXTINF:-1 group-title="Film",Christian Movies Collection
+https://www.youtube.com/playlist?list=PLKgPiloikESIzTgGoALIJVMPioIib8Eo4&loop=1&autoplay=0
+#EXTINF:-1 group-title="Film",Goya's Ghost Trailers
+https://www.youtube.com/playlist?list=PLSd-Jxi6MW-aMCh6lKmNVKW7JKo9zbH2C&loop=1&autoplay=0
+#EXTINF:-1 group-title="Film",Persecutions1
+https://www.youtube.com/playlist?list=PLomWEBPD3wwEZyhe3OuG5u6KkleY6mobt&loop=1&autoplay=0
+#EXTINF:-1 group-title="Film",Persecutions2
+https://www.youtube.com/playlist?list=PLrfguTQ_6pW3LNPjDfGiqwMe_yaQmtbvy&loop=1&autoplay=0
+#EXTINF:-1 group-title="Film",Persecutions3
+https://www.youtube.com/playlist?list=PL7pqS-cb0VJucbr9IwAkb2pasurURUJ93&loop=1&autoplay=0
+#EXTINF:-1 group-title="Film",philosophy - prageru.com
+https://www.youtube.com/playlist?list=PLIBtb_NuIJ1w9rrlXRueM3opfoV0rUenS&loop=1&autoplay=0
+#EXTINF:0 group-title="Film",10 commandments - prageru.com
+https://www.youtube.com/playlist?list=PLIBtb_NuIJ1y0fPzddUfOqYMav-gp1JNM&loop=1&autoplay=0
+#EXTINF:-1 group-title="Film",prageru.com
+https://www.youtube.com/user/PragerUniversity
+
+#EXTINF:-1 group-title="Debat",Debat Capres-Cawapres 2019
+https://www.youtube.com/playlist?list=PLSYMFhFuOambjJfsYxoLsLcLMG-NqmnDY
+#EXTINF:-1 group-title="Debat",Rumah Pemilu 2019
+https://www.youtube.com/playlist?list=PLdfKHnRgwwWFDSFBtBU4LcC_tQGTM4O1h
+#EXTINF:-1 group-title="Debat",david wood indonesian subtitles 1
+https://www.youtube.com/playlist?list=PL-JrOMvDblGps8TmXLZJ2C6Gae6AsPTyy&loop=1&autoplay=0
+#EXTINF:-1 group-title="Debat",david wood indonesian subtitles 2
+https://www.youtube.com/playlist?list=PLDW_4dkjd8MDUh9d5GDWv2Qh-bLQJfHeR&loop=1&autoplay=0
+#EXTINF:-1 group-title="Debat",david wood debates
+https://www.youtube.com/playlist?list=PLuXxHEHGRVu9vZWvL7PTIPXsiAoR7K1Su&loop=1&autoplay=0
+#EXTINF:-1 group-title="Debat",jay smith indonesian subtitles
+https://www.youtube.com/playlist?list=PLvMra87xLBQ4SekE6OAtFvJOo3U2UrsVS&loop=1&autoplay=0
+#EXTINF:-1 group-title="Debat",Christian Prince indonesian subtitles
+https://www.youtube.com/channel/UCZEWgrCfRkZmTfTE1sYuWRw
+#EXTINF:-1 group-title="Debat",Kumpulan Debat
+https://www.youtube.com/playlist?list=PLG7eXWJWfRviy_hoDcI2Eve_2WtMCmPHX&loop=1&autoplay=0
+
+#EXTINF:-1 group-title="English",Other Languages
+https://www.youtube.com/playlist?list=PLIMAX6WHtnhBP2EN1xoX_kJoT_7ErKDZr&loop=1&autoplay=0
+#EXTINF:-1 group-title="English",Biblical Separatism
+https://www.youtube.com/playlist?list=PLh7-NRdAnWCN88MeR_9vnzA4g7iZ39pEj&loop=1&autoplay=0
+#EXTINF:-1 group-title="English",nabeelqureshi.com
+https://www.youtube.com/playlist?list=PL_69UREoDffNSM3neO3y2QznenMeX9ogk&loop=1&autoplay=0
+#EXTINF:-1 group-title="English",oneminuteapologist.com
+https://www.youtube.com/user/oneminuteapologist
+#EXTINF:-1 group-title="English",soteriology101.com
+https://www.youtube.com/user/MrLeightonFlowers
+#EXTINF:-1 group-title="English",Braxton Hunter
+https://www.youtube.com/user/braxhunt
+#EXTINF:-1 group-title="English",biblicaltruthresources.wordpress.com
+https://www.youtube.com/user/bibletheology
+#EXTINF:-1 group-title="English",thebereancall.com
+https://www.youtube.com/user/TheBereanCall/playlists
+#EXTINF:-1 group-title="English",crossexamined.org
+https://www.youtube.com/user/TurekVideo
+#EXTINF:-1 group-title="English",coldcasechristianity.com
+https://www.youtube.com/user/pleaseconvinceme
+#EXTINF:-1 group-title="English",josh.org
+https://www.youtube.com/user/JoshMcDowell
+#EXTINF:-1 group-title="English",rzim.org
+https://www.youtube.com/user/rzimmedia
+#EXTINF:-1 group-title="English",lighthousetrailsresearch.com/blog
+https://www.youtube.com/user/joiful77/videos
+#EXTINF:-1 group-title="English",Berean Beacon
+https://www.youtube.com/user/BereanBeacon/playlists
+#EXTINF:-1 group-title="English",wayoflife.org
+https://www.youtube.com/channel/UC2Mdn04FJl0HYLk9Vt4mrFg/playlists
+#EXTINF:-1 group-title="English",dts.edu
+https://www.youtube.com/user/dallasseminary/playlists
+#EXTINF:-1 group-title="English",swbts
+https://www.youtube.com/user/swbtsonline/playlists
+#EXTINF:-1 group-title="English",defendinginerrancy.com
+https://www.youtube.com/channel/UCJH6EJ_H42xY3UHj8gxA_-w
+#EXTINF:-1 group-title="English",Kent Hovind
+https://www.youtube.com/channel/UCxiEtqPja47nnqsJNrdOIQQ
+#EXTINF:-1 group-title="English",answersingenesis.org
+https://www.youtube.com/user/answersvideos
+#EXTINF:-1 group-title="English",Creation
+https://www.youtube.com/playlist?list=PL1H21K2YO3MXwQkHJJg2s-_-fVDU9p1Yg&loop=1&autoplay=0
+#EXTINF:-1 group-title="English",freewill
+https://www.youtube.com/playlist?list=PLghyG1d1S98ep2MePfCcm0L5jl0DeFZT8&loop=1&autoplay=0
+#EXTINF:-1 group-title="English",WHY?
+https://www.youtube.com/playlist?list=PLe_K6c7LWPs4HMoK0DDyVzj8a73gWMK6e&loop=1&autoplay=0
+#EXTINF:-1 group-title="English",trails of blood
+https://www.youtube.com/playlist?list=PL-RzzW8tpUT0F8IQept5g45hAdjcDen1J&loop=1&autoplay=0
+
+#EXTINF:-1 group-title="Lectures",Steps to Stronger Church
+https://www.youtube.com/playlist?list=PLh7-NRdAnWCPdx1D7ykjKmhmj0vLgRtpA&loop=1&autoplay=0
+#EXTINF:-1 group-title="Lectures",Keeping the Kids
+https://www.youtube.com/playlist?list=PLh7-NRdAnWCND6Tfybx2E0MTsvuHN__0Q&loop=1&autoplay=0
+#EXTINF:-1 group-title="Lectures",ReasonableFaith.org
+https://www.youtube.com/user/ReasonableFaithOrg
+#EXTINF:-1 group-title="Lectures",Fairhaven Classes
+https://www.youtube.com/channel/UCN4N_GXiQ6LmKUzT15aA7LQ
+#EXTINF:-1 group-title="Lectures",Trinity House Institute
+https://www.youtube.com/user/trinityhouseinst
+#EXTINF:-1 group-title="Lectures",Detroit Baptist Theological Seminary
+https://www.youtube.com/channel/UC226NF86DELcxoh3rerWc0w
