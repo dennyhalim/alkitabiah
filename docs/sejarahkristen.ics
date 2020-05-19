@@ -152,8 +152,8 @@ DTSTAMP:20200507T125939Z
 UID:cca7659a-9900-41be-8a63-86e82693793d
 SUMMARY:3 Mei—Sebuah Badai Salju yang Mengubah Sebuah Kehidupan
 RRULE:FREQ=YEARLY
-DTSTART;TZID=Antarctica/Davis:20200503T200000
-DTEND;TZID=Antarctica/Davis:20200503T210000
+DTSTART;VALUE=DATE:20200503
+DTEND;VALUE=DATE:20200504
 DESCRIPTION:Nas: 2 Timotius 3:10-17\n\n\nCharles Haddon Spurgeon dilahirka
  n pada tahun 1834\, anak kedua dari sepuluh bersaudara yang terlahir bagi 
  Gembala John Spurgeon dan istrinya. Selama bertahun-tahun dalam masa kanak
