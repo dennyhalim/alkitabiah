@@ -81,7 +81,8 @@ SUMMARY:Amsal 27:1 Janganlah memuji diri karena esok hari\, karena engkau
 RRULE:FREQ=YEARLY
 DTSTART;VALUE=DATE:20200106
 DTEND;VALUE=DATE:20200107
-DESCRIPTION:Allah berkuasa mengambil atau memberikan hari esok bagi kita.
+DESCRIPTION:Allah berkuasa mengambil atau memberikan hari esok bagi kita.
+
  
 TRANSP:TRANSPARENT
 X-MOZ-GENERATION:1
@@ -2287,7 +2288,8 @@ DESCRIPTION:Mengabaikan satu bagian Firman Tuhan saja berarti sudah berdos
  a dan menjadi pelanggar hukum.\n\nSemua manusia sudah berdosa dan bahkan h
  ati nurani manusia sendiri menuduh diri sendiri.\nJangan kita menipu diri 
  sendiri dengan mengatakan kita tidak berdosa.\nOrang yang tidak mengakui d
- irinya orang berdosa tidak mungkin bisa diselamatkan dari neraka kekal.\n
+ irinya orang berdosa tidak mungkin bisa diselamatkan dari neraka kekal.\n
+
  
 TRANSP:TRANSPARENT
 X-MOZ-GENERATION:1
@@ -2304,7 +2306,8 @@ RRULE:FREQ=YEARLY
 DTSTART;VALUE=DATE:20200519
 DTEND;VALUE=DATE:20200520
 DESCRIPTION:Kematian kekal didalam neraka adalah hukuman yang adil bagi se
- tiap orang yang berdosa terhadap Allah Yang Maha Tinggi dan Maha Kudus.\n
+ tiap orang yang berdosa terhadap Allah Yang Maha Tinggi dan Maha Kudus.\n
+
  
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -3463,7 +3466,8 @@ LAST-MODIFIED:20200525T025145Z
 DTSTAMP:20200525T025145Z
 UID:42da932d-7e72-4404-b08b-8970f65b1255
 SUMMARY:Roma 6:9 Karena kita tahu\, bahwa Kristus\, sesudah Ia bangkit dar
- i antara orang mati\, tidak mati lagi: maut tidak berkuasa lagi atas Dia.
+ i antara orang mati\, tidak mati lagi: maut tidak berkuasa lagi atas Dia.
+
  
 RRULE:FREQ=YEARLY
 DTSTART;VALUE=DATE:20200725
@@ -4234,7 +4238,8 @@ DTEND;VALUE=DATE:20200908
 DESCRIPTION:Sangat baik kita merenungkan dan mengingat kembali hari-hari y
  ang sudah kita lalui. \nApakah kita lebih mementingkan hal-hal yang kekal\
  , yang rohani dan sorgawi daripada hal-hal fana dunia ini?\nJika belum\, h
- ari inilah saatnya untuk memulainya dan jangan kita menunda-nunda lagi.\n
+ ari inilah saatnya untuk memulainya dan jangan kita menunda-nunda lagi.\n
+
  
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -4779,7 +4784,8 @@ DTSTAMP:20200526T130814Z
 UID:ae5a287b-0042-4b2a-8016-746697ba458a
 SUMMARY:Yesaya 7:14 Sebab itu Tuhan sendirilah yang akan memberikan kepada
  mu suatu pertanda: Sesungguhnya\, seorang perempuan muda mengandung dan ak
- an melahirkan seorang anak laki-laki\, dan ia akan menamakan Dia Imanuel.
+ an melahirkan seorang anak laki-laki\, dan ia akan menamakan Dia Imanuel.
+
  
 RRULE:FREQ=YEARLY
 DTSTART;VALUE=DATE:20201012
@@ -5995,7 +6001,8 @@ LAST-MODIFIED:20200528T133647Z
 DTSTAMP:20200528T133647Z
 UID:6640e4c3-241a-4711-8072-e63584c78ac6
 SUMMARY:Mazmur 12:6 (12-7) Janji TUHAN adalah janji yang murni\, bagaikan 
- perak yang teruji\, tujuh kali dimurnikan dalam dapur peleburan di tanah.
+ perak yang teruji\, tujuh kali dimurnikan dalam dapur peleburan di tanah.
+
  
 RRULE:FREQ=YEARLY
 DTSTART;VALUE=DATE:20201122
@@ -6068,7 +6075,8 @@ DTEND;VALUE=DATE:20201128
 DESCRIPTION:Bahkan satu titik terkecil dalam tulisan Firman Tuhan tidak ak
  an batal.\nFirman Tuhan benar\, murni\, sempurna\, teguh\, tetap\, kekal\,
   tidak ada kesalahan dan tidak bisa salah.\nFirman Tuhan mengajar\, menyat
- akan kesalahan\, memperbaiki kelakuan\, mendidik orang dalam kebenaran.\n
+ akan kesalahan\, memperbaiki kelakuan\, mendidik orang dalam kebenaran.\n
+
  
 TRANSP:TRANSPARENT
 END:VEVENT
