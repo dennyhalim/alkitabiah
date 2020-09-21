@@ -1,17 +1,11 @@
 #EXTM3U #cara seting: https://alkitabiah.org/?p=273
 
-#EXTINF:-1 group-title="Doktrin",Peta Garis Zaman + Jalan Keselamatan Graphe-ministry.org 
-https://www.youtube.com/playlist?list=PLghyG1d1S98d9tahHE_03kdp1Sezy62p3&loop=1&autoplay=0
 #EXTINF:-1 group-title="Doktrin",Villy Tuuk
 https://www.youtube.com/channel/UChMijysHIRNx1uoAR-0pZ5w
 #EXTINF:-1 group-title="Doktrin",Firman Legowo
 https://www.youtube.com/channel/UCFYuS8hbR8ck4sIq0gjMFzQ
 #EXTINF:-1 group-title="Doktrin",alkitabiah.wordpress.com
 https://www.youtube.com/channel/UCmKqqEmC4-L5V8umpBGXK3A
-#EXTINF:-1 group-title="Doktrin",Seminar Kalvinisme Graphe-ministry.org 
-https://www.youtube.com/playlist?list=PLgePXTzWlTEbHwukhNTCxc3RbJdOvZRpa&loop=1&autoplay=0
-#EXTINF:-1 group-title="Doktrin",Seminar Lain Graphe-ministry.org 
-https://www.youtube.com/channel/UCJKiBlyYJbaPaRUOmrlD4Zw/playlists
 #EXTINF:-1 group-title="Doktrin",alkitabiah.wordpress.com
 https://www.youtube.com/channel/UCSRsMRoWP2JXveso5A7HQng
 #EXTINF:-1 group-title="Doktrin",I'll be honest
@@ -39,14 +33,20 @@ http://103.28.148.18:9030/;stream.mp3
 #EXTINF:-1 group-title="Kebenaran Memerdekakan",Radio Berita Klasik opsi2
 http://103.28.148.18:9030/listen.pls
 
-#EXTINF:-1 group-title="Gereja Lokal",Graphe-ministry.org 
+#EXTINF:-1 group-title="Jemaat",Graphe-ministry.org 
 https://www.youtube.com/channel/UCJKiBlyYJbaPaRUOmrlD4Zw
-#EXTINF:-1 group-title="Gereja Lokal",GBIA Depok
+#EXTINF:-1 group-title="Jemaat",GBIA Depok
 https://www.youtube.com/channel/UC-4e6J3MyVOLqvyYvDHn-nQ
-#EXTINF:-1 group-title="Gereja Lokal",GBIA Kasih Lintang Batang
+#EXTINF:-1 group-title="Jemaat",GBIA Kasih Lintang Batang
 https://www.youtube.com/channel/UCvPcGnKRirXaHK2Y2ZW32yQ
-#EXTINF:-1 group-title="Gereja Lokal",lomba.alkitabiah.org/2018
+#EXTINF:-1 group-title="Jemaat",lomba.alkitabiah.org/2018
 https://www.youtube.com/playlist?list=PLghyG1d1S98c9RZNA1IzTwEC2Bm6NAoyI&loop=1&autoplay=0
+#EXTINF:-1 group-title="Jemaat",Peta Garis Zaman + Jalan Keselamatan Graphe-ministry.org 
+https://www.youtube.com/playlist?list=PLghyG1d1S98d9tahHE_03kdp1Sezy62p3&loop=1&autoplay=0
+#EXTINF:-1 group-title="Jemaat",Seminar Kalvinisme Graphe-ministry.org 
+https://www.youtube.com/playlist?list=PLgePXTzWlTEbHwukhNTCxc3RbJdOvZRpa&loop=1&autoplay=0
+#EXTINF:-1 group-title="Jemaat",Seminar Lain Graphe-ministry.org 
+https://www.youtube.com/channel/UCJKiBlyYJbaPaRUOmrlD4Zw/playlists
 
 #EXTINF:-1 group-title="Hymne",Hymns 
 https://www.youtube.com/playlist?list=PLghyG1d1S98eYYNgPvK8wDLe3-ajR1bSl&loop=1&autoplay=0
