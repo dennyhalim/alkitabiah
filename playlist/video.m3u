@@ -1,5 +1,7 @@
 #EXTM3U #cara seting: https://alkitabiah.org/?p=273
 
+#EXTINF:-1 group-title="Doktrin",Kotbah Alkitabiah.org
+https://www.youtube.com/watch?v=JbhKkiI6ZnI&list=PLWkdf0BXgzp94eT4skFPU3H2DW3hPIuSa
 #EXTINF:-1 group-title="Doktrin",Villy Tuuk
 https://www.youtube.com/channel/UChMijysHIRNx1uoAR-0pZ5w
 #EXTINF:-1 group-title="Doktrin",I'll be honest
@@ -13,43 +15,17 @@ https://www.youtube.com/channel/UCSRsMRoWP2JXveso5A7HQng
 #EXTINF:-1 group-title="Doktrin",John Sung
 https://www.youtube.com/channel/UCnhOFaTouKVVbxq0k9tQv8Q
 
-#EXTINF:-1 group-title="Kebenaran Memerdekakan",Mengapa Percaya Allah Graphe-ministry.org 
-http://archive.org/download/KhotbahKebenaranMemerdekakan/01-MengapaSayaPercayaAdaAllah.mp3
-#EXTINF:-1 group-title="Kebenaran Memerdekakan",Alkitab Satu-satunya Firman Allah Graphe-ministry.org 
-http://archive.org/download/KhotbahKebenaranMemerdekakan/02-AlkitabSatu-satunyaFirmanAllah.mp3
-#EXTINF:-1 group-title="Kebenaran Memerdekakan",Alkitab Firman Tuhan Graphe-ministry.org 
-http://archive.org/download/KhotbahKebenaranMemerdekakan/03-AlkitabFirmanTuhan.mp3
-#EXTINF:-1 group-title="Kebenaran Memerdekakan",Kepastian Masuk Sorga Graphe-ministry.org 
-http://archive.org/download/KhotbahKebenaranMemerdekakan/04-MendapatkanKepastianMasukSorga.mp3
-#EXTINF:-1 group-title="Kebenaran Memerdekakan",Kepastian Keselamatan Graphe-ministry.org 
-http://archive.org/download/KhotbahKebenaranMemerdekakan/05-KepastianKeselamatan.mp3
-#EXTINF:-1 group-title="Kebenaran Memerdekakan",Bukti Lahir Baru Graphe-ministry.org 
-http://archive.org/download/KhotbahKebenaranMemerdekakan/06-BuktiOrangYangSudahLahirBaru.mp3
-#EXTINF:-1 group-title="Kebenaran Memerdekakan",Gereja Alkitabiah Graphe-ministry.org 
-http://archive.org/download/KhotbahKebenaranMemerdekakan/07-MencariGerejaYangAlkitabiah.mp3
-#EXTINF:-1 group-title="Kebenaran Memerdekakan",Kalvinisme Graphe-ministry.org 
-http://archive.org/download/KhotbahKebenaranMemerdekakan/08-MembahasKalvinisme.mp3
-
-#EXTINF:-1 group-title="Kebenaran Memerdekakan",Radio Berita Klasik opsi1
-http://103.28.148.18:9030/;stream.mp3
-#EXTINF:-1 group-title="Kebenaran Memerdekakan",Radio Berita Klasik opsi2
-http://103.28.148.18:9030/listen.pls
-
-#EXTINF:-1 group-title="Jemaat",Graphe-ministry.org 
-https://www.youtube.com/channel/UCJKiBlyYJbaPaRUOmrlD4Zw
+#EXTINF:-1 group-title="Jemaat",MARANATHA Bible Baptist Church
+https://www.youtube.com/channel/UCUps2z3TNUvIT3tMJ273YNw
 #EXTINF:-1 group-title="Jemaat",GBIA Depok
 https://www.youtube.com/channel/UC-4e6J3MyVOLqvyYvDHn-nQ
 #EXTINF:-1 group-title="Jemaat",GBIA Kasih Lintang Batang
 https://www.youtube.com/channel/UCvPcGnKRirXaHK2Y2ZW32yQ
 #EXTINF:-1 group-title="Jemaat",lomba.alkitabiah.org/2018
 https://www.youtube.com/playlist?list=PLghyG1d1S98c9RZNA1IzTwEC2Bm6NAoyI&loop=1&autoplay=0
-#EXTINF:-1 group-title="Jemaat",Peta Garis Zaman + Jalan Keselamatan Graphe-ministry.org 
-https://www.youtube.com/playlist?list=PLghyG1d1S98d9tahHE_03kdp1Sezy62p3&loop=1&autoplay=0
-#EXTINF:-1 group-title="Jemaat",Seminar Kalvinisme Graphe-ministry.org 
-https://www.youtube.com/playlist?list=PLgePXTzWlTEbHwukhNTCxc3RbJdOvZRpa&loop=1&autoplay=0
-#EXTINF:-1 group-title="Jemaat",Seminar Lain Graphe-ministry.org 
-https://www.youtube.com/channel/UCJKiBlyYJbaPaRUOmrlD4Zw/playlists
 
+#EXTINF:-1 group-title="Hymne",Pujian GBA Maranatha
+https://www.youtube.com/playlist?list=PLWkdf0BXgzp98DXI54HlyrX4cx2jwdTZs&loop=1&autoplay=0
 #EXTINF:-1 group-title="Hymne",Hymns 
 https://www.youtube.com/playlist?list=PLghyG1d1S98eYYNgPvK8wDLe3-ajR1bSl&loop=1&autoplay=0
 #EXTINF:-1 group-title="Hymne",Best Loved Hymns
@@ -61,6 +37,8 @@ https://www.youtube.com/playlist?list=PL4A987E3F7E4EEEFC
 #EXTINF:-1 group-title="Hymne",Kids Hymns
 https://www.youtube.com/playlist?list=PLaxLhQS-sdOwkrsWlld8KCY3ozkuOKCHz&loop=1&autoplay=0
 
+#EXTINF:-1 group-title="Film",Injil Ringkas
+https://www.youtube.com/watch?v=IR381x24WwM&list=PLWkdf0BXgzp9IFxua1ITVjqr_xHGO-KUw&loop=1&autoplay=0
 #EXTINF:-1 group-title="Film",Kartun Injil
 https://www.youtube.com/playlist?list=PLghyG1d1S98ce9TTBPes3ldbb3LICSoxb&loop=1&autoplay=0
 #EXTINF:-1 group-title="Film",Film Alkitab
