@@ -1,0 +1,11 @@
+# Alkitab Terjemahan Baru
+
+Teks Alkitab Terjemahan Baru (TB) &copy; LAI 1974
+
+Released for non-profit scholarly and personal use. 
+Not to be sold for profit. 
+When making formal public reference to the materials, please acknowlege The Indonesian Bible Society (Lembaga Alkitab Indonesia) as the copyright holder.
+
+Proses konversi oleh [alkitabiah.org](http://alkitabiah.org) menggunakan [Pandoc](http://johnmacfarlane.net/pandoc/)
+
+
